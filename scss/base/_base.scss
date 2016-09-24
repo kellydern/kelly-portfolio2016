@@ -1,0 +1,143 @@
+// ==========================================================================
+// Base Styles
+// ==========================================================================
+
+* {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	color: $grey;
+  	font-size: $base__font-size;
+  	font-family: $font-family--secondary;
+  	line-height: ($base__line/$base__font-size);
+}
+
+// Text
+
+h1 {
+	@extend %hdln-prim;
+	font-weight: $font-weight--thin;
+}
+
+h2 {
+	@extend %hdln-sec;
+}
+
+h3 {
+	font-size: em(18px);
+}
+
+h4 {
+	@include mq(medium) {
+		margin-top: em(42px);
+	}
+	margin-top: em(22px);
+	margin-bottom: em(36px, 14px);
+	color: palette(grey, x-light);
+	text-transform: uppercase;
+	letter-spacing: $letter-space;
+	font-weight: $font-weight--medium;
+	font-size: em(14px);
+}
+
+a {
+	color: $fountain-blue; 
+	text-decoration: none;
+	font-weight: $font-weight--medium;
+}
+
+p {
+	margin: 0 0 em(30px, 18px);
+	font-family: $font-family--secondary;
+	font-weight: $font-weight--thin;
+	font-size: em(18px);
+	line-height: (27px/18px);
+}
+
+blockquote {
+	@include mq(medium) {
+		margin: em(32px, 24px) 0;
+		padding: 0 0 0 5%;
+		border-left: em(8px, 24px) solid $fountain-blue; 
+		font-size: em(24px);
+	}
+	font-weight: $font-weight--light;
+	font-style : italic;
+	font-size : em(32px);
+}
+
+// Lists
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-weight: $font-weight--light;
+	font-size: em(18px);
+	line-height: (27px/18px);
+	text-align: center;
+}
+
+// Images
+
+img {
+  margin-bottom: em(24px);
+  max-width: 100%;
+  height: auto;
+}
+
+// Form elements
+
+input, 
+textarea {
+	display: block;
+	padding: 15px;
+	width: 100%; 
+	outline: 0;
+	border: 0;
+}
+
+input:focus, 
+textarea:focus {
+	transition: $trns_duration;
+}
+
+// Button
+
+button {
+	outline: 0;
+}
+
+// Footer
+
+footer {
+	p {
+		font-size: em(16px);
+		margin-top: em(22px, 16px);
+		text-align: center;
+	}
+}
+.case__container {
+	background-color: $charcoal;
+	ul {
+		display: inline-block;
+		vertical-align: top;
+		color: $white;
+		text-align: center;
+		margin: 0 em(20px, 10px);
+		@include mq(small) {
+			display: block;
+			margin-top: em(20px, 10px)
+		}
+	}
+	li a {
+		color: $grey;
+		font-size: em(14px);
+	}
+	li a:hover {
+		color: $fountain-blue;
+	}
+}

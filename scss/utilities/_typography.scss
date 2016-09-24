@@ -1,0 +1,29 @@
+// ==========================================================================
+// Typography
+// ==========================================================================
+
+// Font Stacks
+
+@include font-face('FaktSoftPro-SemiBold', FaktSoftPro-SemiBold);
+
+@font-face {
+    font-family: "FaktSoftPro-SemiBold";
+    src: url(../fonts/FaktSoftPro-SemiBold.eot);
+    src: url(../fonts/FaktSoftPro-SemiBold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/FaktSoftPro-SemiBold.woff) format('woff'), 
+    url(../fonts/FaktSoftPro-SemiBold.svg) format('svg'),
+    url(../fonts/FaktSoftPro-SemiBold.ttf) format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FaktSoftPro-BlondItalic';
+    src: url('../fonts/FaktSoftPro-BlondItalic.eot');
+    src: url('../fonts/FaktSoftPro-BlondItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/FaktSoftPro-BlondItalic.woff') format('woff'), 
+    url('../fonts/FaktSoftPro-BlondItalic.svg') format('svg'),
+    url('../fonts/FaktSoftPro-BlondItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
