@@ -4,7 +4,7 @@
 
 .nav {
   margin-top: em(10px);
-  margin-bottom: em(30px);
+  margin-bottom: em(10px);
   @include e(item) {
     @extend %nav-item-horz;
     

@@ -27,13 +27,13 @@ $poly-grid: (
 	color: $white;
 	padding: 5em 0;
 	&.cellcollective {
-		background-color: $ebony;
+		background-color: $navy;
 	}
 	&.grubstake {
 		background-color: $emerald;
 	}
 	&.sojern {
-	background-color: $navy;
+	background-color: $orange;
 	}	
 	&.paycrave {
 	background-color: $coral;
@@ -46,6 +46,9 @@ $poly-grid: (
 	}
 	&.passion {
 	background-color: $purple-majesty;
+	}
+	&.chaos {
+	background-color: $baby-blue;
 	}
 }
 

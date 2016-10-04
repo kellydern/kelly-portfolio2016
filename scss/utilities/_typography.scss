@@ -4,26 +4,54 @@
 
 // Font Stacks
 
-@include font-face('FaktSoftPro-SemiBold', FaktSoftPro-SemiBold);
-
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/323528");
+@include font-face('ClearfaceStd-Bold', ClearfaceStd-Bold);
+@include font-face('ClearfaceStd-Regular', ClearfaceStd-Regular);
+  
 @font-face {
-    font-family: "FaktSoftPro-SemiBold";
-    src: url(../fonts/FaktSoftPro-SemiBold.eot);
-    src: url(../fonts/FaktSoftPro-SemiBold.eot?#iefix) format('embedded-opentype'),
-    url(../fonts/FaktSoftPro-SemiBold.woff) format('woff'), 
-    url(../fonts/FaktSoftPro-SemiBold.svg) format('svg'),
-    url(../fonts/FaktSoftPro-SemiBold.ttf) format('truetype');
+    font-family: 'ClearfaceStd-Bold';
+    src: url('../fonts/323528_0_0.eot');
+    src: url('../fonts/323528_0_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/323528_0_0.woff2') format('woff2'),
+    url('../fonts/323528_0_0.woff') format('woff'),
+    url('../fonts/323528_0_0.ttf') format('truetype');
     font-weight: 600;
+    font-style: bold;
+}
+  
+@font-face {
+    font-family: 'ClearfaceStd-Regular';
+    src: url('../fonts/323528_1_0.eot');
+    src: url('../fonts/323528_1_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/323528_1_0.woff2') format('woff2'),
+    url('../fonts/323528_1_0.woff') format('woff'),
+    url('../fonts/323528_1_0.ttf') format('truetype');
     font-style: normal;
+    font-weight: 100;
 }
 
 @font-face {
-    font-family: 'FaktSoftPro-BlondItalic';
-    src: url('../fonts/FaktSoftPro-BlondItalic.eot');
-    src: url('../fonts/FaktSoftPro-BlondItalic.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/FaktSoftPro-BlondItalic.woff') format('woff'), 
-    url('../fonts/FaktSoftPro-BlondItalic.svg') format('svg'),
-    url('../fonts/FaktSoftPro-BlondItalic.ttf') format('truetype');
-    font-weight: 400;
-    font-style: italic;
+    font-family: 'GT-Walsheim-Regular';
+    src: url('../fonts/GT-Walsheim-Regular.eot');
+    src: url('../fonts/GT-Walsheim-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GT-Walsheim-Regular.woff2') format('woff2'),
+    url('../fonts/GT-Walsheim-Regular.woff') format('woff'),
+    url('../fonts/GT-Walsheim-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 600;
 }
+
+@font-face {
+    font-family: 'GT-Walsheim-Regular-Oblique';
+    src: url('../fonts/GT-Walsheim-Regular-Oblique.eot');
+    src: url('../fonts/GT-Walsheim-Regular-Oblique?#iefix') format('embedded-opentype'),
+    url('../fonts/GT-Walsheim-Regular-Oblique.woff2') format('woff2'),
+    url('../fonts/GT-Walsheim-Regular-Oblique.woff') format('woff'),
+    url('../fonts/GT-Walsheim-Regular-Oblique.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+

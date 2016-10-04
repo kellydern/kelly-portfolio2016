@@ -13,12 +13,15 @@ body {
   	font-family: $font-family--secondary;
   	line-height: ($base__line/$base__font-size);
 }
+body ::selection, body -moz::selection {
+	color: $fountain-blue;
+}
 
 // Text
 
 h1 {
 	@extend %hdln-prim;
-	font-weight: $font-weight--thin;
+	border-bottom: em(1.5px) solid $fountain-blue;
 }
 
 h2 {
@@ -26,7 +29,10 @@ h2 {
 }
 
 h3 {
-	font-size: em(18px);
+	font-size: em(20px);
+	line-height: (32px/18px);
+	color: $grey;
+	text-align: center;
 }
 
 h4 {
@@ -34,16 +40,16 @@ h4 {
 		margin-top: em(42px);
 	}
 	margin-top: em(22px);
-	margin-bottom: em(36px, 14px);
-	color: palette(grey, x-light);
+	margin-bottom: em(10px);
+	color: $black;
 	text-transform: uppercase;
 	letter-spacing: $letter-space;
 	font-weight: $font-weight--medium;
-	font-size: em(14px);
+	font-size: em(22px);
 }
 
 a {
-	color: $fountain-blue; 
+	color: $color-primary; 
 	text-decoration: none;
 	font-weight: $font-weight--medium;
 }
@@ -53,7 +59,13 @@ p {
 	font-family: $font-family--secondary;
 	font-weight: $font-weight--thin;
 	font-size: em(18px);
-	line-height: (27px/18px);
+	line-height: (30px/18px);
+}
+
+span {
+	background-color: $rouge;
+	padding: em(3px, 10px);
+	color: $white;
 }
 
 blockquote {
@@ -61,11 +73,10 @@ blockquote {
 		margin: em(32px, 24px) 0;
 		padding: 0 0 0 5%;
 		border-left: em(8px, 24px) solid $fountain-blue; 
-		font-size: em(24px);
+		font-size: em(34px);
 	}
-	font-weight: $font-weight--light;
-	font-style : italic;
-	font-size : em(32px);
+	font-family: $font-family--italic;
+	font-size : em(22px);
 }
 
 // Lists
@@ -118,8 +129,13 @@ footer {
 		font-size: em(16px);
 		margin-top: em(22px, 16px);
 		text-align: center;
+		color: $white;
+	}
+	li a {
+		color: $white;
 	}
 }
+
 .case__container {
 	background-color: $charcoal;
 	ul {
@@ -134,7 +150,7 @@ footer {
 		}
 	}
 	li a {
-		color: $grey;
+		color: $white;
 		font-size: em(14px);
 	}
 	li a:hover {

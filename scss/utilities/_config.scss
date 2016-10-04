@@ -15,9 +15,9 @@
 // Font Stacks
 
 $font-url--google        : 'http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900';
-$font-family--primary    : "FaktSoftPro-SemiBold", helvetica,arial,sans-serif; 
-$font-family--secondary  : "FaktSoftPro-Blond", helvetica,arial,sans-serif;
-$font-family--italic     : "FaktSoftPro-BlondItalic", helvetica,arial,sans-serif;
+$font-family--primary    : "ClearfaceStd-Bold", helvetica,arial,sans-serif; 
+$font-family--secondary  : "GT-Walsheim-Regular", helvetica,arial,sans-serif;
+$font-family--italic     : "GT-Walsheim-Regular-Oblique", helvetica,arial,sans-serif;
 
 // Font Weights
 
@@ -31,9 +31,10 @@ $font-weight--ultra-bold : 900;
 
 $white : #fff;
 $black : #0b0b0b;
-$grey  : #8492a6;
+$grey  : #2e3c40;
 
 $fountain-blue  : #1fb6ff;
+$light-blue     : #DAF3FF;
 $ebony          : #273444;
 $emerald        : #28b292;
 $navy           : #2840b2;
@@ -43,6 +44,10 @@ $frog           : #16c98d;
 $purple-majesty : #5930d8;
 $scooter        : #39add1;
 $charcoal       : #273444;
+$rouge          : #FF9282;
+$baby-blue      : #0092FF;
+$navy           : #0f6ace;
+$orange         : #ff6600;
 
 // Color Usage
 
@@ -72,7 +77,7 @@ $color-palettes: (
 // UI Colors
 
 $ui-colors: (
-  default : $grey,
+  default : $ebony,
   success : $fountain-blue,
   error   : $emerald,
   warning : $coral,

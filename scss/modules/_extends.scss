@@ -8,6 +8,7 @@
   @include mq(medium) {
     display: inline-block;
     margin: 0 em(10px);
+    text-transform: uppercase;
   }
 }
 
@@ -31,26 +32,33 @@
   }
 }
 %nav-item-on {
-  color: palette(black);
+  color: $black;
   border-color: $color-primary;
+  @include mq(small) {
+    background-color: $color-accent;
+    color: $white;
+  }
 }
 
 // Headlines
 
 %hdln-prim {
   color: $black;
-  font-size: em(66px);
-  line-height: (70px/56px);
-  margin-top: 0;
+  font-size: em(70px);
+  font-family: $font-family--primary;
+  line-height: (80px/70px);
+  margin-top: 1em;
   text-align: center;
+    @include mq(small) {
+      font-size: em(40px);
+    }
 }
 
 %hdln-sec {
   color: $white;
   letter-spacing: $letter-space;
-  font-weight: $font-weight--thin;
-  font-size: em(32px);
-  font-family: $font-family--secondary;
+  font-size: em(36px);
+  font-family: $font-family--primary;
   text-align: left;
   margin-bottom: em(5px);
 }
@@ -64,10 +72,11 @@
   color: $white;
   text-transform: uppercase;
   letter-spacing: $letter-space;
-  font-size : em(16px);
+  font-size: em(16px);
   font-weight: $font-weight--medium;
   transition: opacity $trns-duration;
   display: block;
+  background-color: $ebony;
   &:hover {
     opacity: .75;
   }
