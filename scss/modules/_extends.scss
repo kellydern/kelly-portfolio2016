@@ -55,7 +55,7 @@
 }
 
 %hdln-sec {
-  color: $white;
+  color: $black;
   letter-spacing: $letter-space;
   font-size: em(36px);
   font-family: $font-family--primary;
@@ -76,7 +76,7 @@
   font-weight: $font-weight--medium;
   transition: opacity $trns-duration;
   display: block;
-  background-color: $ebony;
+  background-color: $color-primary;
   &:hover {
     opacity: .75;
   }

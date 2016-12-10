@@ -43,7 +43,7 @@
 @mixin ui-colors($map, $p-el:null) {
   @each $theme, $color in $map {
     @include m($theme) {
-      background-color: $color;
+      background-color: $color-primary;
 
       // If an $p-el value is passed, generate pseudo-element bg colors. Used on progbars.
       @if $p-el {
@@ -144,4 +144,17 @@
   font-weight: $weight;
   color: $color;
 }
+
+
+@mixin background-image($img) {
+  background-image: url('#{$path--rel}/#{$img}');
+  background-repeat: no-repeat;
+}
+
+@mixin background-svg-support($png, $svg) {
+  background: transparent url('#{$path--rel}/#{$img}') center center no-repeat;
+  background-image: -webkit-linear-gradient(transparent, transparent), url('#{$path--rel}/#{$img}');
+  background-image: linear-gradient(transparent, transparent), url('#{$path--rel}/#{$img}');
+}
+
 

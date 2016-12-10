@@ -1,54 +1,57 @@
 // =============================================================================
-// Poly Theme Styles
+// Kelly Theme Styles
 // =============================================================================
 
-// Grid display background colors
 
-$poly-grid: (
-	grid__col--12 : #DEF4E5,
-	grid__col--8  : #DCE0F2,
-	grid__col--7  : #DCF0EF,
-	grid__col--6  : #FFE3DB,
-	grid__col--4  : #F8EDD0,
-	grid__col--5  : #EAEBEC,
-	grid__col--2  : #C5E2CE,
-	grid__col--3  : #D6EEF5
-);
-
-// Generate Poly grid display classes
-
-@each $value, $color in $poly-grid {
-	.theme__poly .#{$value} {
-		background-color: $color;
+.case__section {
+	padding: 5em 0;
+	background-color: $light-grey ;
+	&.cellcollective {
+		border-bottom: $grey;
+	}
+	&.grubstake {
+		border-bottom: $navy;
+	}
+	&.sojern {
+	border-bottom: $navy;
+	}	
+	&.paycrave {
+	border-bottom: $navy;
+	}
+	&.lifeio {
+	border-bottom: $navy;
+	}
+	&.artistry {
+	border-bottom: $navy;
+	}
+	&.passion {
+	border-bottom: $navy;
+	}
+	&.chaos {
+	border-bottom: $navy;
 	}
 }
 
-.case__section {
-	color: $white;
-	padding: 5em 0;
-	&.cellcollective {
-		background-color: $navy;
-	}
-	&.grubstake {
-		background-color: $emerald;
-	}
-	&.sojern {
-	background-color: $orange;
-	}	
-	&.paycrave {
-	background-color: $coral;
-	}
-	&.lifeio {
-	background-color: $night;
-	}
-	&.artistry {
-	background-color: $frog;
-	}
-	&.passion {
-	background-color: $purple-majesty;
-	}
-	&.chaos {
-	background-color: $baby-blue;
-	}
+.section__break {
+	padding-top: em(50px);
+	padding-bottom: em(50px);
+}
+
+
+.section__about {
+	padding-top: em(50px);
+	padding-bottom: em(50px);
+}
+
+.fullcallout {
+	background-position: 0 -220px !important;
+    background-repeat: repeat;
+    opacity: 0.2;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
 }
 

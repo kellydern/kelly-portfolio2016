@@ -21,11 +21,16 @@ body ::selection, body -moz::selection {
 
 h1 {
 	@extend %hdln-prim;
-	border-bottom: em(1.5px) solid $fountain-blue;
+	border-bottom: em(1.5px) solid $color-primary;
 }
 
 h2 {
 	@extend %hdln-sec;
+}
+
+h2.main {
+	color: $color-primary;
+	text-align: center;
 }
 
 h3 {
@@ -59,13 +64,7 @@ p {
 	font-family: $font-family--secondary;
 	font-weight: $font-weight--thin;
 	font-size: em(18px);
-	line-height: (30px/18px);
-}
-
-span {
-	background-color: $rouge;
-	padding: em(3px, 10px);
-	color: $white;
+	line-height: (32px/18px);
 }
 
 blockquote {
@@ -92,10 +91,17 @@ li {
 	text-align: center;
 }
 
+ul.main-page {
+	font-size: em(20px);
+	line-height: (32px/18px);
+	color: $color-primary;
+	text-align: center;
+}
+
 // Images
 
 img {
-  margin-bottom: em(24px);
+  margin-bottom: em(75px);
   max-width: 100%;
   height: auto;
 }
@@ -129,19 +135,20 @@ footer {
 		font-size: em(16px);
 		margin-top: em(22px, 16px);
 		text-align: center;
-		color: $white;
+		color: $color-primary;
 	}
 	li a {
-		color: $white;
+		color: $color-primary;
 	}
 }
 
 .case__container {
-	background-color: $charcoal;
+	padding-top: em(50px);
+	padding-bottom: em(50px);
 	ul {
 		display: inline-block;
 		vertical-align: top;
-		color: $white;
+		color: $color-primary;
 		text-align: center;
 		margin: 0 em(20px, 10px);
 		@include mq(small) {
@@ -150,7 +157,7 @@ footer {
 		}
 	}
 	li a {
-		color: $white;
+		color: $color-primary;
 		font-size: em(14px);
 	}
 	li a:hover {
