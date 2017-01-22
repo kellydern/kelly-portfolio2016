@@ -366,7 +366,7 @@ footer li a {
     color: #1fb6ff;
     font-size: 0.875em; }
   .case__container li a:hover {
-    color: #1fb6ff; }
+    color: #39add1; }
 
 .panel, .panel--centered {
   padding-top: 1.875em; }
@@ -492,7 +492,7 @@ h2, .headline-secondary, .headline-secondary--grouped {
   font-weight: 400;
   transition: opacity 0.3s;
   display: block;
-  background-color: #273444; }
+  background-color: #1fb6ff; }
   .form__btn:hover, [class^="btn--"]:hover {
     opacity: .75; }
   .form__btn:active, [class^="btn--"]:active {
@@ -555,15 +555,15 @@ img.about__icon {
   background: #1fb6ff; }
 
 .btn--default {
-  background-color: #273444; }
+  background-color: #1fb6ff; }
 .btn--success {
   background-color: #1fb6ff; }
 .btn--error {
-  background-color: #28b292; }
+  background-color: #1fb6ff; }
 .btn--warning {
-  background-color: #ff9a52; }
+  background-color: #1fb6ff; }
 .btn--info {
-  background-color: #5930d8; }
+  background-color: #1fb6ff; }
 
 [class^="btn--"] {
   margin-bottom: 1.42857em; }
@@ -609,7 +609,7 @@ img.about__icon {
   position: relative;
   margin-bottom: 2.875em; }
   .progbar__status--default {
-    background-color: #273444; }
+    background-color: #1fb6ff; }
     .progbar__status--default:after {
       background-color: #36485e; }
   .progbar__status--success {
@@ -617,15 +617,15 @@ img.about__icon {
     .progbar__status--success:after {
       background-color: #48c3ff; }
   .progbar__status--error {
-    background-color: #28b292; }
+    background-color: #1fb6ff; }
     .progbar__status--error:after {
       background-color: #32d1ac; }
   .progbar__status--warning {
-    background-color: #ff9a52; }
+    background-color: #1fb6ff; }
     .progbar__status--warning:after {
       background-color: #ffb27b; }
   .progbar__status--info {
-    background-color: #5930d8; }
+    background-color: #1fb6ff; }
     .progbar__status--info:after {
       background-color: #7552de; }
 
@@ -713,7 +713,8 @@ img.about__icon {
 
 .section__break {
   padding-top: 3.125em;
-  padding-bottom: 3.125em; }
+  padding-bottom: 3.125em;
+  opacity: 0.2; }
 
 .section__about {
   padding-top: 3.125em;
