@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1600px" height="2122px" viewBox="0 0 1600 2122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>4.0 MetLife Dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M204.315499,23.2073516 L203.401059,23.2073516 L203.401059,18.3992501 L208.209161,18.3992501 L208.209161,19.3136902 L204.315499,19.3136902 L204.315499,23.2073516 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.5" y="-0.5" width="5.80810145" height="5.80810145">
+            <rect x="202.901059" y="17.8992501" width="5.80810145" height="5.80810145" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M204.534188,77.8539862 L203.754159,77.8539862 L203.754159,73.7526155 L207.85553,73.7526155 L207.85553,74.5326443 L204.534188,74.5326443 L204.534188,77.8539862 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.5" y="-0.5" width="5.10137077" height="5.10137077">
+            <rect x="203.254159" y="73.2526155" width="5.10137077" height="5.10137077" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="1603" height="80"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1603" height="80" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <circle id="path-7" cx="15" cy="15" r="15"></circle>
+        <polygon id="path-9" points="9.45121951e-05 30.6219512 30.40325 30.6219512 30.40325 0.218928049 9.45121951e-05 0.218928049 9.45121951e-05 30.6219512"></polygon>
+        <polygon id="path-11" points="0 30.7994829 154.747085 30.7994829 154.747085 -0.000151219512 0 -0.000151219512"></polygon>
+        <rect id="path-13" x="0" y="80" width="1603" height="55"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.858823529   0 0 0 0 0.890196078   0 0 0 0 0.890196078  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="1130" height="370" rx="6"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1130" height="370" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="0.0864678469" y="0" width="1130" height="70" rx="4"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1130" height="70" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <path d="M65,130 C100.898509,130 130,100.898509 130,65 C130,29.1014913 100.898509,0 65,0 C29.1014913,0 0,29.1014913 0,65 C0,100.898509 29.1014913,130 65,130 Z" id="path-19"></path>
+        <path d="M65,130 C100.898509,130 130,100.898509 130,65 C130,29.1014913 100.898509,0 65,0 C29.1014913,0 0,29.1014913 0,65 C0,100.898509 29.1014913,130 65,130 Z" id="path-21"></path>
+        <rect id="path-23" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <rect id="path-25" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <rect id="path-27" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+        <path d="M25,50 C38.8071187,50 50,38.8071187 50,25 C50,11.1928813 38.8071187,0 25,0 C11.1928813,0 0,11.1928813 0,25 C0,38.8071187 11.1928813,50 25,50 Z" id="path-29"></path>
+        <rect id="path-31" x="0" y="0" width="370" height="750" rx="6"></rect>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="750" fill="white">
+            <use xlink:href="#path-31"></use>
+        </mask>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-33">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FAFBFC" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-34" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-35" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-34"></use>
+        </mask>
+        <rect id="path-36" x="246" y="0" width="370" height="370" rx="6"></rect>
+        <mask id="mask-37" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-36"></use>
+        </mask>
+        <circle id="path-38" cx="128.634332" cy="128.634332" r="128.634332"></circle>
+        <rect id="path-40" x="0" y="0" width="370" height="370" rx="6"></rect>
+        <mask id="mask-41" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-40"></use>
+        </mask>
+        <rect id="path-42" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-43" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-42"></use>
+        </mask>
+        <rect id="path-44" x="0" y="0" width="370" height="370" rx="6"></rect>
+        <mask id="mask-45" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-44"></use>
+        </mask>
+        <mask id="mask-47" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-44"></use>
+        </mask>
+        <circle id="path-48" cx="106.5" cy="106.5" r="106.5"></circle>
+        <rect id="path-50" x="0" y="0" width="370" height="370" rx="6"></rect>
+        <mask id="mask-51" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-50"></use>
+        </mask>
+        <mask id="mask-53" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-50"></use>
+        </mask>
+        <circle id="path-54" cx="106.5" cy="106.5" r="106.5"></circle>
+        <rect id="path-56" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-57" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-56"></use>
+        </mask>
+        <rect id="path-58" x="0" y="0" width="370" height="370" rx="6"></rect>
+        <mask id="mask-59" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-58"></use>
+        </mask>
+        <mask id="mask-61" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-58"></use>
+        </mask>
+        <rect id="path-62" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-63" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-62"></use>
+        </mask>
+        <path d="M237.5,210 C241.642136,210 245,206.642136 245,202.5 C245,198.357864 241.642136,195 237.5,195 C233.357864,195 230,198.357864 230,202.5 C230,206.642136 233.357864,210 237.5,210 Z" id="path-64"></path>
+        <mask id="mask-65" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="15" fill="white">
+            <use xlink:href="#path-64"></use>
+        </mask>
+        <path d="M7.61314255,76.5492018 L7.61314255,142.000099 C7.61314255,144.206694 9.40641467,146 11.6185279,146 L118.994615,146 C121.210705,146 123,144.209183 123,142.000099 L123,3.99990133 C123,1.79330592 121.206728,0 118.994615,0 L11.6185279,0 C9.4024375,0 7.61314255,1.79081683 7.61314255,3.99990133 L7.61314255,61.9867098 L0.331896552,69.2679558 L7.61314255,76.5492018 Z" id="path-66"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-67">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.171947302   0 0 0 0 0.250319688   0 0 0 0 0.351084184  0 0 0 0.209408967 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-68">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.742304759   0 0 0 0 0.792274017   0 0 0 0 0.834555697  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <mask id="mask-69" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="122.668103" height="146" fill="white">
+            <use xlink:href="#path-66"></use>
+        </mask>
+        <rect id="path-70" x="0" y="0" width="1130" height="370" rx="6"></rect>
+        <mask id="mask-71" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1130" height="370" fill="white">
+            <use xlink:href="#path-70"></use>
+        </mask>
+        <rect id="path-72" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-73" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-72"></use>
+        </mask>
+        <path d="M22.4870368,86 L254.00293,86 C257.320622,86 260,83.315449 260,80.0038876 L260,5.99611244 C260,2.69193253 257.31502,0 254.00293,0 L5.99706967,0 C2.67937848,0 0,2.68455098 0,5.99611244 L0,80.0038876 C0,83.3080675 2.68497955,86 5.99706967,86 L13.5129632,86 C14.6652777,89.2932091 16.3326389,93 18,93 C19.6673611,93 21.3347223,89.2932091 22.4870368,86 Z" id="path-74"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-75">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-76" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-77" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-76"></use>
+        </mask>
+        <rect id="path-78" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-79" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-78"></use>
+        </mask>
+        <rect id="path-80" x="0" y="0" width="370" height="370" rx="6"></rect>
+        <mask id="mask-81" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-80"></use>
+        </mask>
+        <mask id="mask-83" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="370" height="370" fill="white">
+            <use xlink:href="#path-80"></use>
+        </mask>
+        <rect id="path-84" x="-1.13686838e-13" y="0" width="110" height="30" rx="2"></rect>
+        <mask id="mask-85" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="110" height="30" fill="white">
+            <use xlink:href="#path-84"></use>
+        </mask>
+        <rect id="path-86" x="0" y="0" width="185" height="45" rx="2"></rect>
+        <mask id="mask-87" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="185" height="45" fill="white">
+            <use xlink:href="#path-86"></use>
+        </mask>
+    </defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.0-MetLife-Dashboard">
+            <rect id="bg" fill="#F9F9FB" x="0" y="0" width="1603" height="2122"></rect>
+            <g id="sidebar" transform="translate(1239.000000, 173.000000)">
+                <g>
+                    <g id="health-level">
+                        <rect id="Rectangle-114" stroke="#D1D3D5" fill="#FFFFFF" x="0" y="0" width="330" height="208"></rect>
+                        <text id="ADD-NEW" font-family="ProximaNova-Semibold, Proxima Nova" font-size="16" font-weight="500" fill="#BBBDBF">
+                            <tspan x="51" y="56">ADD NEW</tspan>
+                        </text>
+                        <g id="Group" transform="translate(51.000000, 73.000000)">
+                            <rect id="Rectangle-67" fill="#D1D3D5" x="0.282044357" y="55.6896552" width="227.080645" height="38.6206897" rx="2"></rect>
+                            <g id="Shape-+-Shape" transform="translate(13.000000, 65.000000)" fill-opacity="0.8" fill="#FFFFFF">
+                                <path d="M15.8553366,10.1796804 C16.9448985,8.17078869 21.3675374,5.41106273 21.3675374,2.72877938 C21.3675374,1.22223877 20.1336678,0.000594614058 18.611437,0.000594614058 C17.0892063,0.000594614058 15.8553366,1.22223877 15.8553366,2.72877938 C15.8553366,1.22223877 14.6214669,0.000594614058 13.0992362,0.000594614058 C11.577769,0.000594614058 10.3441539,1.22223877 10.3441539,2.72877938 C10.3441539,5.4108063 14.7667928,8.17078869 15.8553366,10.1796804 L15.8553366,10.1796804 Z" id="Shape"></path>
+                                <path d="M10.5744864,12.0529194 C10.2591472,12.0529194 9.98529325,12.2662712 9.9107215,12.5698873 L8.90947494,16.6387008 L7.05637982,5.3048997 C7.00471408,4.98717991 6.73315076,4.74972346 6.40839463,4.73715827 C6.09101933,4.72843957 5.79476844,4.94076563 5.71765158,5.25310035 L4.04525932,12.0531759 L0.0888847022,12.0531759 L0.0888847022,13.4053442 L4.58227769,13.4053442 C4.8973624,13.4053442 5.17172533,13.1925052 5.24604256,12.8899149 L6.2467801,8.82084493 L8.10012973,20.1541332 C8.1523045,20.4726223 8.42310428,20.709053 8.74786041,20.7231568 L8.7750931,20.7231568 C9.08865074,20.7231568 9.36377721,20.509805 9.43860346,20.206189 L11.1112502,13.4053442 L22.8953674,13.4053442 L22.8953674,12.0531759 L10.5744864,12.0531759 L10.5744864,12.0529194 Z" id="Shape"></path>
+                            </g>
+                            <text id="ADD-A-WORKOUT" font-family="ProximaNova-Semibold, Proxima Nova" font-size="12" font-weight="500" fill="#FFFFFF">
+                                <tspan x="49.312" y="80">ADD A WORKOUT</tspan>
+                            </text>
+                            <g id="Rectangle-67-+-ADD-A-HEALTH-RECORD">
+                                <rect id="Rectangle-67" fill="#D1D3D5" x="0.282044357" y="0.689655172" width="227.080645" height="38.6206897" rx="2"></rect>
+                                <text id="ADD-A-HEALTH-RECORD" font-family="ProximaNova-Semibold, Proxima Nova" font-size="12" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="49.198" y="25">ADD A HEALTH RECORD</tspan>
+                                </text>
+                            </g>
+                            <path d="M29.0795412,10 C27.3770556,10 25.7567923,10.6069942 24.5,11.6916032 C23.2434496,10.6069942 21.6231863,10 19.9204588,10 C16.1043761,10 13,13.0330361 13,16.7610927 C13,23.1275182 23.5053518,30.4397422 23.9527379,30.747834 L24.5,31.1248475 L25.0472621,30.747834 C25.4946482,30.439984 36,23.1275182 36,16.7610927 C36,13.0330361 32.8956239,10 29.0795412,10 L29.0795412,10 Z M24.5,27.9065694 C21.9136245,25.9583842 19.1637717,23.4539891 17.4204168,21.0460845 L21.6930752,21.0460845 L22.725449,18.2531859 L25.1290007,24.7944547 L26.9023426,21.0460845 L31.579825,21.0460845 C29.8362283,23.4539891 27.0863755,25.9583842 24.5,27.9065694 L24.5,27.9065694 Z M32.2272049,20.0787631 L26.2895445,20.0787631 L25.24121,22.29538 L22.7281091,15.4556925 L21.0193359,20.0787631 L16.7727951,20.0787631 C16.0518989,18.9005657 15.6175716,17.7675905 15.6175716,16.7610927 C15.6175716,14.4760378 17.5478614,12.6173298 19.9207007,12.6173298 C21.2106237,12.6173298 22.4217101,13.1682193 23.2439332,14.1292531 L24.5,15.5546011 L25.7560668,14.1292531 C26.5782899,13.1682193 27.7893763,12.6173298 29.0792993,12.6173298 C31.4521386,12.6173298 33.3824284,14.4760378 33.3824284,16.7610927 C33.3824284,17.7675905 32.9483429,18.9005657 32.2272049,20.0787631 L32.2272049,20.0787631 Z" id="Shape" fill-opacity="0.7" fill="#FFFFFF"></path>
+                            <path d="M206.5,28 C210.642136,28 214,24.6421356 214,20.5 C214,16.3578644 210.642136,13 206.5,13 C202.357864,13 199,16.3578644 199,20.5 C199,24.6421356 202.357864,28 206.5,28 Z" id="Oval-429" fill="#BBBDBF"></path>
+                            <circle id="Oval-429-Copy" fill="#BBBDBF" cx="206.5" cy="75.5" r="7.5"></circle>
+                            <g id="Rectangle-42-Copy-2" transform="translate(205.805110, 20.803301) scale(-1, 1) rotate(-45.000000) translate(-205.805110, -20.803301) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="1" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Rectangle-42-Copy-3" transform="translate(205.804844, 75.803301) scale(-1, 1) rotate(-45.000000) translate(-205.804844, -75.803301) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <use stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="1" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="recent-freind-activity" transform="translate(0.000000, 248.000000)">
+                        <rect id="Rectangle-114-Copy" stroke="#D1D3D5" fill="#FFFFFF" x="0" y="0" width="330" height="208"></rect>
+                        <text id="+0.0" font-family="ProximaNova-Regular, Proxima Nova" font-size="50" font-weight="normal" fill="#BBBDBF">
+                            <tspan x="41" y="124">+0.0</tspan>
+                        </text>
+                        <text id="LIFESCORE" font-family="ProximaNova-Semibold, Proxima Nova" font-size="16" font-weight="500" fill="#BBBDBF">
+                            <tspan x="40" y="56">LIFESCORE</tspan>
+                        </text>
+                    </g>
+                    <g id="recent-friend-activiy" transform="translate(0.000000, 496.000000)">
+                        <rect id="Rectangle-114-Copy" stroke="#D1D3D5" fill="#FFFFFF" x="0" y="0" width="330" height="208"></rect>
+                        <text id="RECENT-FRIEND-ACTIVI" font-family="ProximaNova-Semibold, Proxima Nova" font-size="16" font-weight="500" fill="#BBBDBF">
+                            <tspan x="42" y="56">RECENT FRIEND ACTIVITY</tspan>
+                        </text>
+                        <text id="No-friend-activity-y" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#BBBDBF">
+                            <tspan x="42" y="95">No friend activity yet.</tspan>
+                        </text>
+                    </g>
+                    <g id="the-week's-leaders" transform="translate(0.000000, 744.000000)">
+                        <rect id="Rectangle-114-Copy" stroke="#D1D3D5" fill="#FFFFFF" x="0" y="0" width="330" height="208"></rect>
+                        <text id="THIS-WEEK’S-LEADERS" font-family="ProximaNova-Semibold, Proxima Nova" font-size="16" font-weight="500" fill="#BBBDBF">
+                            <tspan x="40" y="56">THIS WEEK’S LEADERS</tspan>
+                        </text>
+                        <g id="middle" transform="translate(27.000000, 79.000000)">
+                            <rect id="Rectangle-158" fill="#ECECEC" x="0" y="0" width="280" height="95"></rect>
+                            <text id="1" font-family="ProximaNova-Semibold, Proxima Nova" font-size="16" font-weight="500" fill="#BBBDBF">
+                                <tspan x="20" y="31">1</tspan>
+                            </text>
+                            <text id="You" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#BBBDBF">
+                                <tspan x="76" y="31">You</tspan>
+                            </text>
+                            <text id="OPTS" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#BBBDBF">
+                                <tspan x="219" y="31">OPTS</tspan>
+                            </text>
+                            <text id="May-20---May-27-2016" font-family="ProximaNova-Semibold, Proxima Nova" font-size="16" font-weight="500" fill="#BBBDBF">
+                                <tspan x="59" y="79">May 20 - May 27 2016 </tspan>
+                            </text>
+                            <rect id="Rectangle-159" fill="#D8D8D8" x="0" y="47" width="280" height="2"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="nav">
+                <use id="Rectangle-113" stroke="#BBBDBF" mask="url(#mask-6)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-5"></use>
+                <g id="128-(1)" transform="translate(1369.000000, 24.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Mask" stroke="#BBBDBF" xlink:href="#path-7"></use>
+                </g>
+                <text id="Samantha-S." font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#959EAC">
+                    <tspan x="1250" y="45">Samantha S.</tspan>
+                </text>
+                <path d="M1413.06315,41.3633125 C1413.04229,41.389375 1413.00667,41.405125 1412.96799,41.40625 C1412.92721,41.40625 1412.89206,41.392 1412.87002,41.3678125 L1409.02252,37.1490625 C1408.99651,37.1205625 1408.99276,37.0826875 1409.01268,37.051375 C1409.0326,37.0200625 1409.07315,37 1409.11721,37 L1416.38284,37 C1416.42573,37 1416.46534,37.0189375 1416.48573,37.0489375 C1416.50612,37.0789375 1416.50448,37.115875 1416.48127,37.1445625 L1413.06315,41.3633125 Z" id="Shape-2" stroke="#959EAC" stroke-linecap="round" stroke-linejoin="round" fill="#BBBDBF"></path>
+                <path d="M1217.13649,46.846512 C1215.2837,44.924623 1214.88017,42.0806833 1214.48974,39.3306252 C1213.91097,35.2544904 1213.25835,30.6734072 1207.44047,30.0739065 L1207.44047,29.3355954 C1207.44047,28.5949372 1206.83921,27.9944307 1206.09763,27.9944307 C1205.35604,27.9944307 1204.75478,28.5949372 1204.75478,29.3355954 L1204.75478,30.0749124 C1198.98491,30.6784365 1198.33766,35.2578433 1197.76393,39.3319663 C1197.37652,42.0830304 1196.97601,44.9276407 1195.13867,46.8505355 C1194.7677,47.2388027 1194.66397,47.8104741 1194.87547,48.3040227 C1195.08697,48.7979066 1195.57274,49.1177744 1196.11021,49.1177744 L1201.73606,49.1177744 C1201.76628,51.4953241 1203.70971,53.4209013 1206.09763,53.4209013 C1208.48554,53.4209013 1210.42864,51.4953241 1210.45919,49.1177744 L1216.16897,49.1177744 C1216.70745,49.1177744 1217.19389,48.7965655 1217.40472,48.3013404 C1217.61555,47.8067859 1217.5098,47.2341086 1217.13649,46.846512 L1217.13649,46.846512 Z M1206.09763,50.7385719 C1205.19121,50.7385719 1204.45466,50.0160195 1204.42478,49.1177744 L1206.09763,49.1177744 L1207.77048,49.1177744 C1207.7406,50.0160195 1207.00405,50.7385719 1206.09763,50.7385719 L1206.09763,50.7385719 Z M1206.09763,46.4354451 L1198.68277,46.4354451 C1199.77585,44.3066814 1200.11458,41.8999614 1200.42377,39.7054807 C1201.09083,34.9664753 1201.61051,32.6885071 1206.09763,32.6885071 C1210.63309,32.6885071 1211.1578,34.9668106 1211.8309,39.7071571 C1212.14244,41.900632 1212.48353,44.3070167 1213.585,46.4354451 L1206.09763,46.4354451 L1206.09763,46.4354451 Z" id="Shape" fill="#BBBDBF"></path>
+                <path d="M1158.14562,51.4162762 C1157.38732,51.4162762 1156.70136,50.9532158 1156.42049,50.2426576 L1152.89342,41.3152722 L1150.06278,48.4273411 C1149.80985,49.0625521 1149.22716,49.507649 1148.54768,49.5844931 C1147.86472,49.666826 1147.20121,49.3579527 1146.81258,48.7960928 L1143.61227,44.1689817 L1140.73125,47.6409368 C1140.07722,48.430335 1138.90635,48.5381163 1138.11812,47.8839437 C1137.32989,47.2287731 1137.22114,46.0586474 1137.87517,45.2702471 L1142.31918,39.9151133 C1142.68985,39.4685195 1143.2461,39.2105429 1143.82879,39.24647 C1144.40849,39.2719184 1144.94328,39.567319 1145.27304,40.04485 L1147.89515,43.8366561 L1151.17528,35.5953785 C1151.45615,34.8893112 1152.13911,34.4257518 1152.89941,34.4257518 L1152.9019,34.4257518 C1153.66219,34.4267498 1154.34516,34.8918061 1154.62503,35.5993704 L1157.92012,43.9399465 L1161.53051,32.0999711 C1161.75251,31.3714493 1162.39756,30.8525023 1163.15686,30.7911268 C1163.90617,30.7292524 1164.63553,31.1389211 1164.97178,31.824031 L1168.91143,39.8557338 C1169.36241,40.7753677 1168.98277,41.8876109 1168.06233,42.3396936 C1167.13991,42.7902793 1166.0299,42.4095518 1165.57891,41.4904168 L1163.70962,37.6781523 L1159.92163,50.1024421 C1159.69164,50.8564122 1159.00918,51.382844 1158.22095,51.4147792 C1158.1965,51.4157772 1158.17106,51.4162762 1158.14562,51.4162762 L1158.14562,51.4162762 Z" id="Shape" fill="#BBBDBF"></path>
+                <ellipse id="Oval-2" fill="#D1D3D5" cx="1210.68541" cy="31.7201072" rx="6.71428571" ry="6.70588235"></ellipse>
+                <ellipse id="Oval-2" fill="#D1D3D5" cx="1169.87715" cy="30.7849811" rx="6.71428571" ry="6.70588235"></ellipse>
+                <text id="3" font-family="OpenSans-Bold, Open Sans" font-size="7" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="1208.44731" y="33.8083425">3</tspan>
+                </text>
+                <text id="3" font-family="OpenSans-Bold, Open Sans" font-size="7" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="1167.63906" y="32.8732164">3</tspan>
+                </text>
+                <g id="Page-1" transform="translate(35.000000, 24.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 0.177532)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M19.7209146,30.0464098 L0.575390244,10.9008854 C-0.191670732,10.1338244 -0.191670732,8.88966585 0.575390244,8.12222683 L7.9034878,0.794507317 C8.67054878,0.0270682927 9.91470732,0.0270682927 10.6821463,0.794507317 L29.8276707,19.9396537 C30.5951098,20.7070927 30.5951098,21.9512512 29.8276707,22.7186902 L22.4999512,30.0464098 C21.7325122,30.8138488 20.4883537,30.8138488 19.7209146,30.0464098" id="Fill-1" fill="#BBBDBF" mask="url(#mask-10)"></path>
+                    </g>
+                    <path d="M31.4538476,18.5559195 L24.0425793,11.1446512 C23.2982012,10.4002732 23.2982012,9.19354146 24.0425793,8.44916341 L31.4538476,1.03827317 C32.1982256,0.293895122 33.4049573,0.293895122 34.1493354,1.03827317 L41.5606037,8.44916341 C42.3049817,9.19354146 42.3049817,10.4002732 41.5606037,11.1446512 L34.1493354,18.5559195 C33.4049573,19.3002976 32.1982256,19.3002976 31.4538476,18.5559195" id="Fill-4" fill="#BBBDBF"></path>
+                    <polygon id="Fill-6" fill="#BBBDBF" points="48.9047683 2.02755122 52.2225244 2.02755122 52.2225244 27.205978 65.9729146 27.205978 65.9729146 30.0443683 48.9047683 30.0443683"></polygon>
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <g id="Clip-9"></g>
+                    <path d="M69.478939,30.0445195 L72.6122073,30.0445195 L72.6122073,11.6123732 L69.478939,11.6123732 L69.478939,30.0445195 Z M71.0270488,6.67240976 C70.4127195,6.67240976 69.9027317,6.46410488 69.4970854,6.04598293 C69.0918171,5.62823902 68.8888049,5.10010488 68.8888049,4.46044634 C68.8888049,3.82192195 69.0918171,3.29340976 69.4970854,2.8752878 C69.9027317,2.45792195 70.4127195,2.24886098 71.0270488,2.24886098 C71.641,2.24886098 72.1513659,2.45792195 72.5570122,2.8752878 C72.9626585,3.29340976 73.1652927,3.82192195 73.1652927,4.46044634 C73.1652927,5.10010488 72.9626585,5.62823902 72.5570122,6.04598293 C72.1513659,6.46410488 71.641,6.67240976 71.0270488,6.67240976 L71.0270488,6.67240976 Z" id="Fill-8" fill="#BBBDBF" mask="url(#mask-12)"></path>
+                    <path d="M79.6865963,14.3034378 L75.8894744,14.3034378 L75.8894744,11.6121085 L79.6865963,11.6121085 L79.6865963,8.66332805 C79.6865963,5.83703537 80.3069744,3.6866939 81.5481085,2.21192561 C82.7888646,0.737157317 84.6137061,-3.7804878e-05 87.0226329,-3.7804878e-05 C88.47245,-3.7804878e-05 89.7506329,0.258169512 90.8564256,0.774206098 L90.5248768,3.3914378 C89.4187061,2.97407195 88.3371085,2.76501098 87.2808402,2.76501098 C85.7077793,2.76501098 84.5709866,3.25685244 83.8704622,4.23940122 C83.1703159,5.2227061 82.8198646,6.8324378 82.8198646,9.06859634 L82.8198646,11.6121085 L88.5707427,11.6121085 L88.5707427,14.3034378 L82.8198646,14.3034378 L82.8198646,30.0446329 L79.6865963,30.0446329 L79.6865963,14.3034378 Z" id="Fill-10" fill="#BBBDBF" mask="url(#mask-12)"></path>
+                    <path d="M105.08932,19.3537537 C104.990649,17.5599122 104.468185,16.171339 103.522307,15.1880341 C102.576429,14.2054854 101.267624,13.7136439 99.5966488,13.7136439 C97.9986366,13.7136439 96.684539,14.2111561 95.6520878,15.2065585 C94.6200146,16.201961 93.9932098,17.5844854 93.7716732,19.3537537 L105.08932,19.3537537 Z M100.84988,30.6343512 C97.7037585,30.6343512 95.2154415,29.7621927 93.3849293,28.0171195 C91.553661,26.2724244 90.6384049,23.9009244 90.6384049,20.9022415 C90.6384049,19.0588756 91.0130512,17.3879 91.762722,15.8885585 C92.5120146,14.3899732 93.5875634,13.2036561 94.9886122,12.3311195 C96.3892829,11.458961 97.986539,11.0223146 99.7807585,11.0223146 C102.262649,11.0223146 104.271978,11.8581805 105.80799,13.5291561 C107.344002,15.2008878 108.112198,17.3879 108.112198,20.0913268 C108.112198,20.410778 108.105771,20.7056561 108.093673,20.975961 C108.081198,21.2466439 108.062673,21.5286683 108.038478,21.8239244 L93.7353805,21.8239244 C93.956539,23.7655829 94.6937341,25.2520707 95.9469659,26.284522 C97.2005756,27.3165951 98.8836488,27.8326317 100.997698,27.8326317 C103.159759,27.8326317 105.273429,27.3290707 107.337954,26.3211927 L107.706929,28.9754732 C106.871063,29.4915098 105.845039,29.8971561 104.628478,30.1920341 C103.411917,30.4869122 102.152259,30.6343512 100.84988,30.6343512 L100.84988,30.6343512 Z" id="Fill-11" fill="#BBBDBF" mask="url(#mask-12)"></path>
+                    <path d="M113.472476,30.3762573 C113.128073,30.3762573 112.839244,30.2658671 112.605988,30.0447085 C112.372354,29.82355 112.255915,29.5282939 112.255915,29.1596963 C112.255915,28.7910988 112.372354,28.4962207 112.605988,28.2750622 C112.839244,28.0539037 113.128073,27.9431354 113.472476,27.9431354 C113.816122,27.9431354 114.104951,28.0539037 114.338585,28.2750622 C114.571841,28.4962207 114.689037,28.7910988 114.689037,29.1596963 C114.689037,29.5282939 114.571841,29.82355 114.338585,30.0447085 C114.104951,30.2658671 113.816122,30.3762573 113.472476,30.3762573" id="Fill-12" fill="#BBBDBF" mask="url(#mask-12)"></path>
+                    <path d="M120.90378,30.0445195 L122.304829,30.0445195 L122.304829,12.3495683 L120.90378,12.3495683 L120.90378,30.0445195 Z M121.604305,6.37753171 C121.235707,6.37753171 120.946878,6.27319024 120.738195,6.06412927 C120.529134,5.85582439 120.424793,5.56661707 120.424793,5.19764146 C120.424793,4.8290439 120.529134,4.54059268 120.738195,4.33153171 C120.946878,4.12322683 121.235707,4.01812927 121.604305,4.01812927 C121.972902,4.01812927 122.261732,4.12322683 122.470793,4.33153171 C122.679476,4.54059268 122.784195,4.8290439 122.784195,5.19764146 C122.784195,5.56661707 122.679476,5.85582439 122.470793,6.06412927 C122.261732,6.27319024 121.972902,6.37753171 121.604305,6.37753171 L121.604305,6.37753171 Z" id="Fill-13" fill="#BBBDBF" mask="url(#mask-12)"></path>
+                    <path d="M136.114044,29.3809305 C137.514715,29.3809305 138.79252,29.0433329 139.947837,28.3670037 C141.102776,27.6914305 142.024459,26.72665 142.712507,25.4734183 C143.400178,24.2201866 143.744959,22.7949427 143.744959,21.1973085 C143.744959,19.6983451 143.431178,18.3279183 142.804751,17.0867841 C142.177946,15.846028 141.280837,14.8562963 140.1138,14.1191012 C138.946007,13.3819061 137.612629,13.0133085 136.114044,13.0133085 C134.712995,13.0133085 133.434812,13.3512841 132.279873,14.0268573 C131.124556,14.7031866 130.202873,15.667589 129.515202,16.9208207 C128.827154,18.1740524 128.482751,19.5996744 128.482751,21.1973085 C128.482751,22.696272 128.796532,24.0666988 129.422959,25.3074549 C130.049763,26.548589 130.946495,27.5379427 132.114288,28.2751378 C133.281324,29.0123329 134.614324,29.3809305 136.114044,29.3809305 M136.114044,30.6341622 C134.442312,30.6341622 132.924824,30.2409915 131.561202,29.45465 C130.197202,28.6683085 129.103129,27.556089 128.280117,26.1183695 C127.456727,24.68065 127.04541,23.0402963 127.04541,21.1973085 C127.04541,19.5013817 127.426105,17.9407963 128.187873,16.5151744 C128.949641,15.0903085 130.02519,13.9410402 131.413385,13.0685037 C132.801959,12.1963451 134.368593,11.7596988 136.114044,11.7596988 C137.78502,11.7596988 139.302885,12.1532476 140.666507,12.939589 C142.030507,13.7263085 143.123824,14.837772 143.947593,16.2754915 C144.770605,17.713211 145.1823,19.3539427 145.1823,21.1973085 C145.1823,22.8928573 144.801227,24.4538207 144.039837,25.8786866 C143.27769,27.3043085 142.202141,28.4535768 140.814324,29.3257354 C139.425373,30.1978939 137.858361,30.6341622 136.114044,30.6341622" id="Fill-14" fill="#BBBDBF" mask="url(#mask-12)"></path>
+                    <path d="M151.673851,27.1017122 L152.224668,27.1017122 L153.126693,28.9772122 L154.044595,27.1017122 L154.595412,27.1017122 L154.74701,30.0550293 L154.244205,30.0550293 L154.14818,27.8680171 L153.334241,29.5439073 L152.935022,29.5439073 L152.112766,27.843822 L152.025437,30.0550293 L151.522632,30.0550293 L151.673851,27.1017122 Z M149.534851,27.588639 L148.616949,27.588639 L148.616949,27.1017122 L151.01151,27.1017122 L151.01151,27.588639 L150.101546,27.588639 L150.101546,30.0550293 L149.534851,30.0550293 L149.534851,27.588639 Z" id="Fill-15" fill="#BBBDBF" mask="url(#mask-12)"></path>
+                </g>
+                <g id="social" transform="translate(524.000000, 27.000000)" font-size="16" font-family="OpenSans, Open Sans" fill="#BBBDBF" font-weight="normal">
+                    <text id="SOCIAL">
+                        <tspan x="0" y="17">SOCIAL</tspan>
+                    </text>
+                </g>
+                <g id="dashboard" transform="translate(222.000000, 29.000000)" fill="#BBBDBF">
+                    <text id="DASHBOARD" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal">
+                        <tspan x="31" y="17">DASHBOARD</tspan>
+                    </text>
+                    <path d="M19.9707313,8.32861633 C19.4665304,7.11590104 18.7455572,6.02720651 17.8268267,5.09246878 C16.9078961,4.15773105 15.8380454,3.42399248 14.6454973,2.91121043 C13.4111158,2.37948925 12.1006739,2.11006485 10.7497998,2.11006485 C9.39952626,2.11006485 8.08888418,2.37948925 6.8537021,2.91121043 C5.66195456,3.42399248 4.59170362,4.15773105 3.67297315,5.09246878 C2.75484316,6.02720651 2.03306928,7.11590104 1.52906856,8.32861633 C1.00665319,9.58531928 0.742042805,10.918797 0.742042805,12.293004 C0.742042805,13.6668037 1.00665319,14.9998741 1.52906856,16.2569844 C1.83491173,16.9921485 2.22081856,17.6812884 2.68158491,18.3189058 L5.04846679,18.3189058 L16.4513331,18.3189058 L18.8184151,18.3189058 C19.2789813,17.6812884 19.6652884,16.9921485 19.9707313,16.2569844 C20.4929465,14.9998741 20.7579572,13.6668037 20.7579572,12.293004 C20.7579572,10.918797 20.4929465,9.58531928 19.9707313,8.32861633 L19.9707313,8.32861633 Z M3.74983426,16.6801619 C2.97581885,15.4051308 2.52826301,13.9020155 2.52826301,12.293004 C2.52826301,7.67307804 6.20938982,3.92822137 10.7497998,3.92822137 C15.2906102,3.92822137 18.9709364,7.67307804 18.9709364,12.293004 C18.9709364,13.9020155 18.5245815,15.4051308 17.7497654,16.6801619 L3.74983426,16.6801619 L3.74983426,16.6801619 Z" id="Shape"></path>
+                    <ellipse id="Oval" cx="16.9727476" cy="12.2233569" rx="1.19234802" ry="1.21312258"></ellipse>
+                    <ellipse id="Oval" cx="15.7529778" cy="8.43247608" rx="1.19214786" ry="1.21291894"></ellipse>
+                    <path d="M12.5764522,7.30753246 C13.2348573,7.30753246 13.7686,6.76449015 13.7686,6.09461352 C13.7686,5.42473689 13.2348573,4.88169459 12.5764522,4.88169459 C11.9180471,4.88169459 11.3843043,5.42473689 11.3843043,6.09461352 C11.3843043,6.76449015 11.9180471,7.30753246 12.5764522,7.30753246 Z" id="Oval"></path>
+                    <ellipse id="Oval" cx="8.6561352" cy="6.10296303" rx="1.19214786" ry="1.21291894"></ellipse>
+                    <ellipse id="Oval" cx="5.48921722" cy="8.45446991" rx="1.19214786" ry="1.21291894"></ellipse>
+                    <ellipse id="Oval" cx="4.28606061" cy="12.2508492" rx="1.1919477" ry="1.21271529"></ellipse>
+                    <path d="M11.2267791,10.5848166 L10.6291039,6.09461352 L10.0310284,10.5848166 C9.37010286,10.8326545 8.89892824,11.4784177 8.89892824,12.2370012 C8.89892824,13.2092099 9.67394444,13.9973221 10.629304,13.9973221 C11.5846636,13.9973221 12.3594797,13.2098208 12.3594797,12.2370012 C12.3594797,11.4792323 11.8879047,10.8326545 11.2267791,10.5848166 L11.2267791,10.5848166 Z" id="Shape"></path>
+                </g>
+                <g id="leaderboard" transform="translate(604.000000, 27.000000)" fill="#BBBDBF">
+                    <text id="LEADERBOARD" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal">
+                        <tspan x="27" y="17">LEADERBOARD</tspan>
+                    </text>
+                    <path d="M11.3735852,11.92286 C14.5283275,11.522 17,7.8905 17,3.46538 L14.217709,3.46538 C14.2488072,2.9846 14.2704487,2.4977 14.2704487,2 L2.80320503,2 C2.80320503,2.4977 2.82430091,2.98442 2.85576285,3.46556 L0,3.46556 C0,7.9256 2.51186375,11.57708 5.70388755,11.92826 C5.91575558,12.16838 6.13417061,12.38546 6.3611331,12.57122 L6.24310533,12.57122 L6.24310533,13.71404 L7.38973876,13.71404 L7.38973876,16.57118 L6.24310533,16.57118 L6.24310533,17.71436 L5.09629004,17.71436 L5.09629004,20 L11.9766362,20 L11.9766362,17.714 L10.8298209,17.714 L10.8298209,16.571 L9.68300563,16.571 L9.68300563,13.71404 L10.8298209,13.71404 L10.8298209,12.57122 L10.7116113,12.57122 C10.940938,12.38384 11.1608079,12.16496 11.3735852,11.92286 L11.3735852,11.92286 Z M15.7920794,4.60802 C15.4978284,7.34204 14.1611502,9.57512 12.3956439,10.43516 C13.2360234,8.90678 13.846167,6.89168 14.1144119,4.60802 L15.7920794,4.60802 L15.7920794,4.60802 Z M1.20773872,4.60802 L2.9585143,4.60802 C3.22966901,6.9149 3.84999679,8.94782 4.70401592,10.48178 C2.88940713,9.65882 1.50780932,7.39262 1.20773872,4.60802 L1.20773872,4.60802 Z" id="Shape"></path>
+                </g>
+                <path d="M513.73253,37.8937618 C513.830616,38.0118939 514.142351,38.4402762 514.142351,39.1494777 C514.142351,39.9896874 513.700863,40.4415735 513.700863,40.4415735 L513.295772,40.4415735 C513.426141,40.5989467 513.627248,40.9465985 513.627248,41.6239167 C513.627248,42.6225215 513.18576,42.9156036 513.18576,42.9156036 L512.614931,42.9156036 C512.743655,43.0554001 512.964913,43.3977381 512.964913,44.1239032 C512.964913,45.1451943 512.523837,45.4162033 512.523837,45.4162033 L501.634902,45.4162033 L501.634902,35.3103879 L501.632229,35.3103879 C503.083977,33.9964234 505.0644,32.4347493 504.604406,29.4894169 C504.482878,28.711339 504.242497,28.2604749 505.006207,28.0513933 C505.770534,27.8427204 506.560565,28.2882707 506.76969,29.0477499 C507.284382,30.9051631 507.226189,33.3000978 506.246979,35.3103879 L513.773862,35.3103879 C513.773862,35.3103879 514.252363,36.0044652 514.21535,36.6736081 C514.178747,37.3431598 513.773862,37.8937618 513.773862,37.8937618 L513.73253,37.8937618 L513.73253,37.8937618 Z M497,46 L500.090003,46 L500.090003,34.9190835 L497,34.9190835 L497,46 L497,46 Z" id="Shape" fill="#BBBDBF"></path>
+                <g id="rewards" transform="translate(373.000000, 27.000000)" fill="#BBBDBF">
+                    <text id="REWARDS" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal">
+                        <tspan x="26" y="17">REWARDS</tspan>
+                    </text>
+                    <path d="M18,9.07976 C18,8.48 17.52552,7.99454 16.9317,7.96934 C16.93242,7.96718 16.93242,7.96502 16.93332,7.96304 L11.78298,7.96304 L10.05534,2.78138 C10.05462,2.78138 10.05372,2.78156 10.05282,2.78156 C9.91044,2.32994 9.49284,2 8.99406,2 C8.46522,2 8.02494,2.36864 7.90992,2.86202 C7.90866,2.86184 7.90722,2.86202 7.90614,2.86166 L6.20514,7.96304 L1.14048,7.96304 C1.13184,7.96286 1.12392,7.96052 1.11546,7.96052 C0.49914,7.96034 0,8.45984 0,9.0758 C0,9.41492 0.15426,9.7148 0.3933,9.91946 C0.39204,9.92126 0.39132,9.92324 0.38988,9.92504 L4.7232,13.2563 L3.11022,18.41924 C3.0447,18.56126 3.00546,18.71786 3.00546,18.8849 C3.00546,19.50086 3.50496,20 4.1211,20 C4.374,20 4.60476,19.91288 4.79196,19.77104 C4.79394,19.77284 4.79646,19.7741 4.79844,19.77572 L9.00486,16.5512 L13.06134,19.66826 C13.26384,19.87292 13.5441,20 13.8546,20 C14.47092,20 14.97024,19.50086 14.97024,18.8849 C14.97024,18.75026 14.94252,18.62282 14.89878,18.50312 C14.90166,18.50276 14.904,18.50132 14.90688,18.50096 L13.27302,13.27808 L17.54226,9.97832 C17.5419,9.97814 17.54136,9.97778 17.541,9.97742 C17.81784,9.77456 18,9.44948 18,9.07976 L18,9.07976 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-2" fill="#BBBDBF" x="925" y="19" width="173.5" height="45" rx="4"></rect>
+                <text id="+-ADD-RECORD" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="951.644531" y="48">+ ADD RECORD</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-path">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+            </g>
+            <path d="M648,135 L730.006096,135" id="Line" stroke="#BBBDBF" stroke-width="2" stroke-linecap="square"></path>
+            <g id="Group" transform="translate(396.000000, 95.000000)" font-size="16" font-family="ProximaNova-Regular, Proxima Nova" fill="#BBBDBF" font-weight="normal">
+                <text id="LifeScore">
+                    <tspan x="0" y="16">LifeScore</tspan>
+                </text>
+                <text id="Overview">
+                    <tspan x="257" y="16">Overview</tspan>
+                </text>
+                <text id="Action-Plan">
+                    <tspan x="122" y="16">Action Plan</tspan>
+                </text>
+            </g>
+            <g id="dashboard" transform="translate(59.000000, 173.000000)">
+                <g id="your-action-plan">
+                    <g>
+                        <g id="biometrics-card" transform="translate(0.086468, 2.216356)" stroke="#E5E5E5" stroke-width="4" fill="#FFFFFF">
+                            <use id="desktop---standard-wide-back" mask="url(#mask-16)" xlink:href="#path-15"></use>
+                        </g>
+                        <use id="Rectangle-104" stroke="#ECECEC" mask="url(#mask-18)" stroke-width="6" fill="#F1F1F2" xlink:href="#path-17"></use>
+                        <text id="Your-Action-Plan" font-family="ProximaNova-Regular, Proxima Nova" font-size="27.2000008" font-weight="normal" line-spacing="30" fill="#BBBDBF">
+                            <tspan x="20.0864678" y="46">Your Action Plan</tspan>
+                        </text>
+                        <g id="check-copy-2" transform="translate(418.000000, 244.000000)" stroke="#BBBDBF" stroke-width="3" fill="#F1F1F2">
+                            <ellipse id="Oval-134" cx="14.5" cy="14.5" rx="14.5" ry="14.5"></ellipse>
+                        </g>
+                        <g id="check-copy-3" transform="translate(768.556641, 242.000000)" stroke="#BBBDBF" stroke-width="3" fill="#F1F1F2">
+                            <ellipse id="Oval-134" cx="14.5" cy="14.5" rx="14.5" ry="14.5"></ellipse>
+                        </g>
+                        <g id="small-graph-copy" transform="translate(514.000000, 90.000000)">
+                            <g id="graph">
+                                <circle id="Oval-73" fill="#D1D3D5" cx="65" cy="65" r="65"></circle>
+                                <g id="Path-125">
+                                    <mask id="mask-20" fill="white">
+                                        <use xlink:href="#path-19"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-20)" points="64.6700508 -8.5786802 64.6700508 54.7715736 127.360406 108.22335 133.959391 28.3756345"></polygon>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-20)" transform="translate(80.897141, 98.420107) rotate(-270.000000) translate(-80.897141, -98.420107) " points="46.2524707 40.0190917 46.2524707 103.369345 108.942826 156.821122 115.541811 76.9734064"></polygon>
+                                    <polygon id="Path-125-Copy" fill="#BBBDBF" mask="url(#mask-20)" transform="translate(126.178793, 55.755781) rotate(-259.000000) translate(-126.178793, -55.755781) " points="91.534123 -2.64523407 91.534123 60.7050197 154.224478 114.156796 160.823463 34.3090807"></polygon>
+                                </g>
+                                <ellipse id="Oval-74" fill="#FFFFFF" cx="65.0271681" cy="65.0271681" rx="42.4450085" ry="42.4450085"></ellipse>
+                            </g>
+                            <text id="60%" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#BBBDBF">
+                                <tspan x="49.528" y="68.968">60%</tspan>
+                            </text>
+                        </g>
+                        <g id="small-graph-copy-2" transform="translate(878.000000, 90.000000)">
+                            <g id="graph">
+                                <circle id="Oval-73" fill="#D1D3D5" cx="65" cy="65" r="65"></circle>
+                                <g id="Path-125">
+                                    <mask id="mask-22" fill="white">
+                                        <use xlink:href="#path-21"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-22)" points="64.6700508 -8.5786802 64.6700508 54.7715736 127.360406 108.22335 133.959391 28.3756345"></polygon>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-22)" transform="translate(80.897141, 98.420107) rotate(-270.000000) translate(-80.897141, -98.420107) " points="46.2524707 40.0190917 46.2524707 103.369345 108.942826 156.821122 115.541811 76.9734064"></polygon>
+                                    <polygon id="Path-125-Copy" fill="#EFEFF2" mask="url(#mask-22)" transform="translate(126.178793, 55.755781) rotate(-259.000000) translate(-126.178793, -55.755781) " points="91.534123 -2.64523407 91.534123 60.7050197 154.224478 114.156796 160.823463 34.3090807"></polygon>
+                                </g>
+                                <ellipse id="Oval-74" fill="#FFFFFF" cx="65.0271681" cy="65.0271681" rx="42.4450085" ry="42.4450085"></ellipse>
+                                <text id="40%" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#BBBDBF">
+                                    <tspan x="49.792" y="68.9951681">40%</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="Begin-150-min-of-phy" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="22.3999996" fill="#BBBDBF">
+                            <tspan x="463.47666" y="260.6">Begin 150 min of physical activity </tspan>
+                            <tspan x="540.56466" y="283">each week</tspan>
+                        </text>
+                        <text id="Reduce-your-dependen" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="22.3999996" fill="#BBBDBF">
+                            <tspan x="805.419359" y="260.6">Reduce your dependency on cigarettes </tspan>
+                            <tspan x="865.923359" y="283">by 1 pack each month.</tspan>
+                        </text>
+                        <g id="btn-primary" transform="translate(124.000000, 307.000000)">
+                            <g id="btn-long-2">
+                                <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-24)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-23"></use>
+                                <text id="REVIEW" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                    <tspan x="59.6112632" y="29.136">REVIEW</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="btn-primary" transform="translate(486.000000, 307.000000)">
+                            <g id="btn-long-2">
+                                <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-26)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-25"></use>
+                                <text id="REVIEW" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                    <tspan x="58.5232632" y="29.136">UPDATE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="btn-primary" transform="translate(851.000000, 307.000000)">
+                            <g id="btn-long-2">
+                                <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-28)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-27"></use>
+                                <text id="REVIEW" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                    <tspan x="58.5232632" y="29.136">UPDATE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="1" transform="translate(38.000000, 90.000000)">
+                            <g id="check-copy" transform="translate(0.000000, 152.000000)">
+                                <ellipse id="Oval-134" stroke="#BBBDBF" stroke-width="3" fill="#F1F1F2" cx="14.5" cy="14.5" rx="14.5" ry="14.5"></ellipse>
+                                <g id="check-" transform="translate(5.580303, 7.557576)" fill="#BBBDBF">
+                                    <path d="M6.77763688,13.3993881 C6.92214495,13.3159934 7.05828922,13.2124019 7.18200231,13.0886888 L16.9808391,3.28985202 C17.7411491,2.52954196 17.7361581,1.31605222 16.9846219,0.56451609 C16.2278462,-0.192259611 15.0129114,-0.185326395 14.259286,0.568298949 L5.8154985,9.01208647 L3.3105293,6.41811493 C2.5755524,5.65702407 1.35306838,5.63092993 0.588833307,6.36894316 C-0.180729869,7.11210168 -0.195926824,8.3255272 0.542989299,9.09069725 L4.4006809,13.0854538 C5.03292604,13.7401629 6.02591972,13.8509844 6.77763688,13.3993881 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                            <text id="In-the-next-90-days," font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="22.3999996" fill="#BBBDBF">
+                                <tspan x="42.812" y="170.6">In the next 90 days, visit your doctor to </tspan>
+                                <tspan x="107.916" y="193">discuss your results. </tspan>
+                            </text>
+                            <g id="100" transform="translate(114.000000, 0.000000)">
+                                <g id="Group-2">
+                                    <g id="small-graph">
+                                        <g id="graph">
+                                            <ellipse id="Oval-73" fill="#BBBDBF" cx="64.5960035" cy="64.5960035" rx="64.5960035" ry="64.5960035"></ellipse>
+                                            <ellipse id="Oval-74" fill="#FFFFFF" cx="64.6230028" cy="64.6230028" rx="42.1811987" ry="42.1811987"></ellipse>
+                                        </g>
+                                    </g>
+                                    <text id="100%" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#BBBDBF">
+                                        <tspan x="47.2377882" y="69.968">100%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="small-graph" transform="translate(1039.000000, 10.000000)">
+                            <g id="graph">
+                                <ellipse id="Oval-73" fill="#D1D3D5" cx="25" cy="25" rx="25" ry="25"></ellipse>
+                                <g id="Path-125">
+                                    <mask id="mask-30" fill="white">
+                                        <use xlink:href="#path-29"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-30)" points="24.8730964 -3.29949239 24.8730964 21.0659898 48.9847716 41.6243655 51.5228426 10.9137056"></polygon>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-30)" transform="translate(31.114285, 37.853887) rotate(-270.000000) translate(-31.114285, -37.853887) " points="17.7894118 15.3919583 17.7894118 39.7574406 41.9010869 60.3158162 44.439158 29.6051563"></polygon>
+                                    <polygon id="Path-125-Copy" fill="#BBBDBF" mask="url(#mask-30)" transform="translate(48.530305, 21.444531) rotate(-259.000000) translate(-48.530305, -21.444531) " points="35.2054319 -1.01739772 35.2054319 23.3480845 59.317107 43.9064602 61.8551781 13.1958003"></polygon>
+                                </g>
+                                <ellipse id="Oval-74" fill="#F1F1F2" cx="25.0104493" cy="25.0104493" rx="16.3250033" ry="16.3250033"></ellipse>
+                            </g>
+                        </g>
+                        <text id="60%" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" fill="#BBBDBF">
+                            <tspan x="1050" y="40">60%</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g transform="translate(0.000000, 383.000000)">
+                    <g id="current-smoking-stats" transform="translate(760.000000, 0.000000)">
+                        <use id="background" stroke="#ECECEC" mask="url(#mask-32)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-31"></use>
+                        <rect id="Overlay" fill="url(#linearGradient-33)" x="2" y="68" width="366" height="678"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" x="0" y="68" width="370" height="1"></rect>
+                        <g id="More" transform="translate(344.000000, 20.000000)" fill="#666666">
+                            <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 L3,6 Z M3,10.2529745 C1.35,10.2529745 0,11.6029745 0,13.2529745 C0,14.9029745 1.35,16.2529745 3,16.2529745 C4.65,16.2529745 6,14.9029745 6,13.2529745 C6,11.6029745 4.65,10.2529745 3,10.2529745 L3,10.2529745 Z M3,20.505949 C1.35,20.505949 0,21.855949 0,23.505949 C0,25.155949 1.35,26.505949 3,26.505949 C4.65,26.505949 6,25.155949 6,23.505949 C6,21.855949 4.65,20.505949 3,20.505949 L3,20.505949 Z" id="Shape"></path>
+                        </g>
+                        <g id="Progress-Circle" transform="translate(31.000000, 455.000000)">
+                            <path d="M130.598617,22.9536296 C160.474858,52.8298699 160.474858,101.268826 130.598617,131.145067 C100.722377,161.021307 52.2834207,161.021307 22.4071803,131.145067 C-7.46906009,101.268826 -7.46906009,52.8298699 22.4071803,22.9536296 C52.2834207,-6.92261082 100.722377,-6.92261082 130.598617,22.9536296 M107.414738,46.1375089 C124.486875,63.2096463 124.486875,90.8890499 107.414738,107.961187 C90.3426006,125.033325 62.663197,125.033325 45.5910596,107.961187 C28.5189223,90.8890499 28.5189223,63.2096463 45.5910596,46.1375089 C62.663197,29.0653716 90.3426006,29.0653716 107.414738,46.1375089" id="Background" fill="#F6F6F6"></path>
+                            <path d="M76.5028988,0.546449277 C118.754283,0.546449277 153.005798,34.7979638 153.005798,77.0493481 C153.005798,119.300732 118.754283,153.552247 76.5028988,153.552247 L76.5028988,120.76529 C100.646547,120.76529 120.218841,101.192996 120.218841,77.0493481 C120.218841,52.9056999 100.646547,33.3334059 76.5028988,33.3334059 L76.5028988,0.546449277 Z" id="Progress" fill="#D1D3D5"></path>
+                        </g>
+                        <g id="weekly" transform="translate(20.000000, 108.000000)" font-family="ProximaNova-Regular, Proxima Nova" fill="#BBBDBF" font-weight="normal">
+                            <text id="Cigarettes-Smoked-We" font-size="16">
+                                <tspan x="70.44" y="70">Cigarettes Smoked Weekly</tspan>
+                            </text>
+                            <text id="35" font-size="55" line-spacing="55">
+                                <tspan x="133.5" y="54">35</tspan>
+                            </text>
+                        </g>
+                        <g id="weekly" transform="translate(20.000000, 289.000000)" font-family="ProximaNova-Regular, Proxima Nova" fill="#BBBDBF" font-weight="normal">
+                            <text id="Cigarettes-Smoked-Ye" font-size="16">
+                                <tspan x="74.952" y="70">Cigarettes Smoked Yearly</tspan>
+                            </text>
+                            <text id="1,825" font-size="55" line-spacing="55">
+                                <tspan x="100.5" y="54">1,825</tspan>
+                            </text>
+                        </g>
+                        <text id="Years-Impact-on-Life" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#BBBDBF">
+                            <tspan x="253.928" y="569">Years</tspan>
+                            <tspan x="204.344" y="588">Impact on Lifescore</tspan>
+                        </text>
+                        <g id="Group-5" transform="translate(214.000000, 498.000000)" font-size="55" font-family="ProximaNova-Regular, Proxima Nova" line-spacing="55" fill="#BBBDBF" font-weight="normal">
+                            <text id="-5.6">
+                                <tspan x="0" y="54">-5.6</tspan>
+                            </text>
+                        </g>
+                        <rect id="divider" fill="#F1F1F2" x="0" y="261" width="370" height="1"></rect>
+                        <rect id="divider" fill="#F1F1F2" x="0" y="434" width="370" height="1"></rect>
+                        <g id="header" transform="translate(20.000000, 20.000000)" font-size="20.7999992" font-family="ProximaNova-Semibold, Proxima Nova" fill="#BBBDBF" font-weight="500">
+                            <text id="CURRENT-SMOKING-STAT">
+                                <tspan x="1.19513922" y="20">CURRENT SMOKING STATS</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="bar" transform="translate(780.000000, 212.493619)">
+                        <rect id="Rectangle-Copy-2" fill="#F1F1F2" x="91" y="7.92680645" width="238.796447" height="10" rx="5"></rect>
+                        <rect id="Rectangle" fill="#D8D8D8" x="0" y="7.92680645" width="106.341291" height="10" rx="5"></rect>
+                        <rect id="Rectangle-3" stroke="#D1D3D5" stroke-dasharray="1,1,1" x="106.341291" y="0.926806454" width="0.658709391" height="26.5"></rect>
+                    </g>
+                    <text id="August-2016" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="24" fill="#BBBDBF">
+                        <tspan x="780" y="206.628165">August 2016</tspan>
+                    </text>
+                    <g id="bar" transform="translate(780.000000, 387.173632)">
+                        <rect id="Rectangle-Copy-2" fill="#F1F1F2" x="91" y="7.92680645" width="238.796447" height="10" rx="5"></rect>
+                        <rect id="Rectangle" fill="#D8D8D8" x="0" y="7.92680645" width="106.341291" height="10" rx="5"></rect>
+                        <rect id="Rectangle-3" stroke="#D1D3D5" stroke-dasharray="1,1,1" x="106.341291" y="0.926806454" width="0.658709391" height="26.5"></rect>
+                    </g>
+                    <text id="August-2016" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="24" fill="#BBBDBF">
+                        <tspan x="780" y="381.308179">August 2016</tspan>
+                    </text>
+                    <g id="btn-regular" transform="translate(853.000000, 685.000000)">
+                        <g id="btn-long-2">
+                            <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-35)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-34"></use>
+                            <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="lifescore" transform="translate(135.000000, 0.000000)">
+                        <use id="standard-size" stroke="#ECECEC" mask="url(#mask-37)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-36"></use>
+                        <rect id="Overlay" fill="url(#linearGradient-33)" x="248" y="68" width="366" height="296"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" x="246" y="68" width="370" height="1"></rect>
+                        <g id="More" transform="translate(590.000000, 20.000000)" fill="#666666">
+                            <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 L3,6 Z M3,10.2529745 C1.35,10.2529745 0,11.6029745 0,13.2529745 C0,14.9029745 1.35,16.2529745 3,16.2529745 C4.65,16.2529745 6,14.9029745 6,13.2529745 C6,11.6029745 4.65,10.2529745 3,10.2529745 L3,10.2529745 Z M3,20.505949 C1.35,20.505949 0,21.855949 0,23.505949 C0,25.155949 1.35,26.505949 3,26.505949 C4.65,26.505949 6,25.155949 6,23.505949 C6,21.855949 4.65,20.505949 3,20.505949 L3,20.505949 Z" id="Shape"></path>
+                        </g>
+                        <g id="Group-2" transform="translate(302.000000, 89.000000)">
+                            <g id="Group-7">
+                                <g id="graph">
+                                    <circle id="Oval-73" fill="#F0F0F3" cx="128.634332" cy="128.634332" r="128.634332"></circle>
+                                    <g id="Path-125">
+                                        <mask id="mask-39" fill="white">
+                                            <use xlink:href="#path-38"></use>
+                                        </mask>
+                                        <g id="Mask"></g>
+                                        <polygon fill="#D1D3D5" mask="url(#mask-39)" transform="translate(160.094610, 194.772380) rotate(-270.000000) translate(-160.094610, -194.772380) " points="91.5331642 79.1973712 91.5331642 204.566873 215.596733 310.347389 228.656056 152.32958"></polygon>
+                                        <polygon id="Path-125-Copy-2" fill="#F1F1F2" mask="url(#mask-39)" transform="translate(47.489537, 163.366377) rotate(-356.000000) translate(-47.489537, -163.366377) " points="-21.0719088 47.791368 -21.0719088 173.160869 102.99166 278.941386 116.050983 120.923577"></polygon>
+                                        <polygon id="Path-125-Copy" fill="#F1F1F2" mask="url(#mask-39)" transform="translate(249.706535, 110.340118) rotate(-259.000000) translate(-249.706535, -110.340118) " points="181.145089 -5.23489104 181.145089 120.13461 305.208658 225.915127 318.267981 67.8973181"></polygon>
+                                    </g>
+                                    <ellipse id="Oval-74" fill="#FFFFFF" cx="129.018786" cy="129.018786" rx="94.9771193" ry="94.9771193"></ellipse>
+                                </g>
+                                <text id="+20.0" font-family="ProximaNova-Regular, Proxima Nova" font-size="55" font-weight="normal" line-spacing="55" fill="#BBBDBF">
+                                    <tspan x="59" y="156">+20.0</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="-20" font-family="ProximaNova-Regular, Proxima Nova" font-size="55" font-weight="normal" line-spacing="55" fill="#BBBDBF">
+                            <tspan x="0.744928966" y="193">-20</tspan>
+                        </text>
+                        <text id="LIFESCORE" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20.7999992" font-weight="500" fill="#BBBDBF">
+                            <tspan x="265.325602" y="43">LIFESCORE</tspan>
+                        </text>
+                        <path d="M385.5,27 C380.80545,27 377,30.8057334 377,35.5 C377,40.1942666 380.80545,44 385.5,44 C390.194266,44 394,40.1942666 394,35.5 C394,30.8057334 390.194266,27 385.5,27 L385.5,27 L385.5,27 Z M386.792566,40.8433834 C386.792566,41.0000666 386.665916,41.1267166 386.509234,41.1267166 L384.586816,41.1267166 C384.430416,41.1267166 384.303484,41.0000666 384.303484,40.8433834 L384.303484,38.9855666 C384.303484,38.8288834 384.430416,38.7022334 384.586816,38.7022334 L386.509234,38.7022334 C386.665916,38.7022334 386.792566,38.8288834 386.792566,38.9855666 L386.792566,40.8433834 L386.792566,40.8433834 Z M388.57275,34.4780166 C388.393116,34.7347166 388.068134,35.0446834 387.5791,35.4254834 L387.124634,35.7790834 C386.920634,35.9374666 386.790584,36.1131334 386.72655,36.3165666 C386.697366,36.4075166 386.661666,36.5987666 386.656566,36.9928834 C386.6543,37.1478666 386.528216,37.27225 386.373234,37.27225 L384.631866,37.27225 C384.555084,37.27225 384.481416,37.2410834 384.427866,37.18555 C384.3746,37.1303 384.345984,37.0557834 384.348534,36.979 C384.37545,36.2151334 384.4494,35.69295 384.57435,35.3821334 C384.705534,35.0557334 385.015216,34.70525 385.5204,34.3105666 L385.99385,33.94025 C386.1205,33.8459 386.223916,33.7407834 386.305234,33.6229166 C386.441516,33.4333666 386.5081,33.2333334 386.5081,33.0112 C386.5081,32.7431666 386.4316,32.5057334 386.274634,32.2850166 C386.14175,32.0977334 385.869184,32.0028166 385.464584,32.0028166 C385.069616,32.0028166 384.803,32.12125 384.649434,32.36435 C384.4698,32.6508 384.382534,32.9378166 384.382534,33.2421166 C384.382534,33.3985166 384.2556,33.52545 384.0992,33.52545 L382.241666,33.52545 C382.1646,33.52545 382.09065,33.494 382.0371,33.4381834 C381.983834,33.38265 381.955216,33.3075666 381.958616,33.2302166 C382.013584,31.9175334 382.487884,30.9678 383.36735,30.40765 C383.917016,30.0537666 384.595884,29.8744166 385.3844,29.8744166 C386.407516,29.8744166 387.275084,30.1260166 387.9633,30.62185 C388.679,31.1383666 389.04195,31.9076166 389.04195,32.9080666 C389.041666,33.5229 388.882716,34.0527334 388.57275,34.4780166 L388.57275,34.4780166 L388.57275,34.4780166 Z" id="Shape-3" fill="#ECECEC"></path>
+                    </g>
+                    <g id="lifeage">
+                        <use id="standard-size" stroke="#ECECEC" mask="url(#mask-41)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-40"></use>
+                        <rect id="Overlay" fill="url(#linearGradient-33)" x="2" y="71" width="366" height="296"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" x="0" y="71" width="370" height="1"></rect>
+                        <g id="More" transform="translate(343.000000, 20.000000)" fill="#666666">
+                            <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 L3,6 Z M3,10.2529745 C1.35,10.2529745 0,11.6029745 0,13.2529745 C0,14.9029745 1.35,16.2529745 3,16.2529745 C4.65,16.2529745 6,14.9029745 6,13.2529745 C6,11.6029745 4.65,10.2529745 3,10.2529745 L3,10.2529745 Z M3,20.505949 C1.35,20.505949 0,21.855949 0,23.505949 C0,25.155949 1.35,26.505949 3,26.505949 C4.65,26.505949 6,25.155949 6,23.505949 C6,21.855949 4.65,20.505949 3,20.505949 L3,20.505949 Z" id="Shape"></path>
+                        </g>
+                        <g id="bar" transform="translate(20.000000, 219.865454)">
+                            <rect id="Rectangle-Copy-2" fill="#F1F1F2" x="91" y="7.92680645" width="238.796447" height="10" rx="5"></rect>
+                            <rect id="Rectangle" fill="#D8D8D8" x="0" y="7.92680645" width="106.341291" height="10" rx="5"></rect>
+                            <rect id="Rectangle-3" stroke="#D1D3D5" stroke-dasharray="1,1,1" x="106.341291" y="0.926806454" width="0.658709391" height="26.5"></rect>
+                        </g>
+                        <g id="btn-regular" transform="translate(89.000000, 305.000000)">
+                            <g id="btn-long-2">
+                                <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-43)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-42"></use>
+                                <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                    <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="copy" transform="translate(18.000000, 80.432727)" font-weight="normal" font-family="ProximaNova-Regular, Proxima Nova" fill="#BBBDBF">
+                            <text id="Your-LifeAge-is-an-e" font-size="16" letter-spacing="-0.33214286">
+                                <tspan x="9.70448066" y="71.3628985">Your LifeAge is an estimate of how healthy you </tspan>
+                                <tspan x="70.5433378" y="90.3628985">are, relative to your real age.</tspan>
+                            </text>
+                            <text id="-20" font-size="55" line-spacing="55">
+                                <tspan x="117.744929" y="54.3628985">-20</tspan>
+                            </text>
+                        </g>
+                        <text id="LIFEAGE" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20.7999992" font-weight="500" fill="#BBBDBF">
+                            <tspan x="20.601742" y="44">LIFEAGE</tspan>
+                        </text>
+                    </g>
+                    <g id="desktop-front---standard" transform="translate(0.000000, 380.000000)">
+                        <mask id="mask-46" fill="white">
+                            <use xlink:href="#path-44"></use>
+                        </mask>
+                        <g id="Mask" stroke="#ECECEC" mask="url(#mask-45)" stroke-width="4" fill="#FFFFFF">
+                            <use mask="url(#mask-47)" xlink:href="#path-44"></use>
+                        </g>
+                        <g id="graph" mask="url(#mask-46)">
+                            <g transform="translate(20.000000, 64.000000)">
+                                <circle id="Oval-73" fill="#F0F0F3" cx="105" cy="105" r="105"></circle>
+                                <g id="Path-125" stroke-width="1" fill="none">
+                                    <mask id="mask-49" fill="white">
+                                        <use xlink:href="#path-48"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-49)" points="105.959391 -14.0558376 105.959391 89.7411168 208.675127 177.319797 219.48731 46.4923858"></polygon>
+                                    <polygon fill="#D1D3D5" mask="url(#mask-49)" transform="translate(132.546854, 161.257560) rotate(-270.000000) translate(-132.546854, -161.257560) " points="75.7828942 65.5697425 75.7828942 169.366697 178.49863 256.945377 189.310813 126.117966"></polygon>
+                                    <polygon id="Path-125-Copy-2" fill="#F1F1F2" mask="url(#mask-49)" transform="translate(39.317930, 135.255642) rotate(-356.000000) translate(-39.317930, -135.255642) " points="-17.446029 39.5678246 -17.446029 143.364779 85.2697071 230.943459 96.0818898 100.116048"></polygon>
+                                    <polygon id="Path-125-Copy" fill="#F1F1F2" mask="url(#mask-49)" transform="translate(206.739099, 91.353703) rotate(-259.000000) translate(-206.739099, -91.353703) " points="149.97514 -4.33411428 149.97514 99.46284 252.690876 187.04152 263.503059 56.2141091"></polygon>
+                                </g>
+                                <ellipse id="Oval-74" fill="#FFFFFF" cx="106" cy="107" rx="75" ry="75"></ellipse>
+                            </g>
+                        </g>
+                        <g id="240-min" mask="url(#mask-46)" font-weight="normal" font-family="ProximaNova-Regular, Proxima Nova">
+                            <g transform="translate(78.000000, 134.000000)">
+                                <text id="min-this-week" font-size="16" line-spacing="16">
+                                    <tspan x="1" y="69" fill="#BBBDBF">min this week</tspan>
+                                </text>
+                                <text id="240" font-size="55" line-spacing="55">
+                                    <tspan x="0.5" y="54" fill="#BBBDBF">240</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="levels" mask="url(#mask-46)">
+                            <g transform="translate(249.000000, 107.000000)" id="key">
+                                <g>
+                                    <g id="max" transform="translate(0.568679, 103.895628)">
+                                        <text id="Max" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                            <tspan x="32" y="16">Max</tspan>
+                                        </text>
+                                        <circle id="Oval-3" fill="#EFEFF2" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                    <g id="max-copy" transform="translate(0.568679, 0.995937)" fill="#BBBDBF">
+                                        <text id="Low" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24">
+                                            <tspan x="32" y="16">Low</tspan>
+                                        </text>
+                                        <circle id="Oval-3" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                    <g id="max-copy-2" transform="translate(0.568679, 35.295834)">
+                                        <text id="Moderate" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                            <tspan x="32" y="16">Moderate</tspan>
+                                        </text>
+                                        <circle id="Oval-3" fill="#F1F1F2" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                    <g id="max-copy-3" transform="translate(0.568679, 69.595731)">
+                                        <text id="High" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                            <tspan x="32" y="16">High</tspan>
+                                        </text>
+                                        <circle id="Oval-3" fill="#D1D3D5" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="header" mask="url(#mask-46)">
+                            <g transform="translate(1.000000, -52.000000)">
+                                <text id="DESKTOP-FRONT---STAN" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal">
+                                    <tspan x="0.431" y="18" fill="#645FAA">DESKTOP FRONT - STANDARD</tspan>
+                                </text>
+                                <text id="YOUR-WORKOUTS" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20.7999992" font-weight="500">
+                                    <tspan x="19.5" y="92" fill="#BBBDBF">YOUR WORKOUTS</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="desktop-front---standard" transform="translate(0.000000, 380.000000)">
+                        <mask id="mask-52" fill="white">
+                            <use xlink:href="#path-50"></use>
+                        </mask>
+                        <g id="Mask" stroke="#ECECEC" mask="url(#mask-51)" stroke-width="4" fill="#FFFFFF">
+                            <use mask="url(#mask-53)" xlink:href="#path-50"></use>
+                        </g>
+                        <rect id="Overlay" fill="url(#linearGradient-33)" mask="url(#mask-52)" x="2" y="67" width="366" height="296"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" mask="url(#mask-52)" x="0" y="67" width="370" height="1"></rect>
+                        <g id="More" mask="url(#mask-52)" fill="#666666">
+                            <g transform="translate(345.000000, 20.000000)" id="Shape">
+                                <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 L3,6 Z M3,10.2529745 C1.35,10.2529745 0,11.6029745 0,13.2529745 C0,14.9029745 1.35,16.2529745 3,16.2529745 C4.65,16.2529745 6,14.9029745 6,13.2529745 C6,11.6029745 4.65,10.2529745 3,10.2529745 L3,10.2529745 Z M3,20.505949 C1.35,20.505949 0,21.855949 0,23.505949 C0,25.155949 1.35,26.505949 3,26.505949 C4.65,26.505949 6,25.155949 6,23.505949 C6,21.855949 4.65,20.505949 3,20.505949 L3,20.505949 Z"></path>
+                            </g>
+                        </g>
+                        <g id="graph" mask="url(#mask-52)">
+                            <g transform="translate(20.000000, 81.000000)">
+                                <circle id="Oval-73" fill="#F0F0F3" cx="105" cy="105" r="105"></circle>
+                                <g id="Path-125" stroke-width="1" fill="none">
+                                    <mask id="mask-55" fill="white">
+                                        <use xlink:href="#path-54"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <polygon fill="#BBBDBF" mask="url(#mask-55)" points="105.959391 -14.0558376 105.959391 89.7411168 208.675127 177.319797 219.48731 46.4923858"></polygon>
+                                    <polygon fill="#D1D3D5" mask="url(#mask-55)" transform="translate(132.546854, 161.257560) rotate(-270.000000) translate(-132.546854, -161.257560) " points="75.7828942 65.5697425 75.7828942 169.366697 178.49863 256.945377 189.310813 126.117966"></polygon>
+                                    <polygon id="Path-125-Copy-2" fill="#F1F1F2" mask="url(#mask-55)" transform="translate(39.317930, 135.255642) rotate(-356.000000) translate(-39.317930, -135.255642) " points="-17.446029 39.5678246 -17.446029 143.364779 85.2697071 230.943459 96.0818898 100.116048"></polygon>
+                                    <polygon id="Path-125-Copy" fill="#F1F1F2" mask="url(#mask-55)" transform="translate(206.739099, 91.353703) rotate(-259.000000) translate(-206.739099, -91.353703) " points="149.97514 -4.33411428 149.97514 99.46284 252.690876 187.04152 263.503059 56.2141091"></polygon>
+                                </g>
+                                <ellipse id="Oval-74" fill="#FFFFFF" cx="106" cy="107" rx="75" ry="75"></ellipse>
+                            </g>
+                        </g>
+                        <g id="240-min" mask="url(#mask-52)" font-weight="normal" font-family="ProximaNova-Regular, Proxima Nova">
+                            <g transform="translate(78.000000, 151.000000)">
+                                <text id="min-this-week" font-size="16" line-spacing="16">
+                                    <tspan x="1" y="69" fill="#BBBDBF">min this week</tspan>
+                                </text>
+                                <text id="240" font-size="55" line-spacing="55">
+                                    <tspan x="0.5" y="54" fill="#BBBDBF">240</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="levels" mask="url(#mask-52)">
+                            <g transform="translate(249.000000, 124.000000)" id="key">
+                                <g>
+                                    <g id="max" transform="translate(0.568679, 103.895628)">
+                                        <text id="Max" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                            <tspan x="32" y="16">Max</tspan>
+                                        </text>
+                                        <circle id="Oval-3" fill="#EFEFF2" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                    <g id="max-copy" transform="translate(0.568679, 0.995937)" fill="#BBBDBF">
+                                        <text id="Low" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24">
+                                            <tspan x="32" y="16">Low</tspan>
+                                        </text>
+                                        <circle id="Oval-3" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                    <g id="max-copy-2" transform="translate(0.568679, 35.295834)">
+                                        <text id="Moderate" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                            <tspan x="32" y="16">Moderate</tspan>
+                                        </text>
+                                        <circle id="Oval-3" fill="#F1F1F2" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                    <g id="max-copy-3" transform="translate(0.568679, 69.595731)">
+                                        <text id="High" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                            <tspan x="32" y="16">High</tspan>
+                                        </text>
+                                        <circle id="Oval-3" fill="#D1D3D5" cx="11" cy="12.1996687" r="11"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="header" mask="url(#mask-52)">
+                            <g transform="translate(1.000000, -52.000000)">
+                                <text id="DESKTOP-FRONT---STAN" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal">
+                                    <tspan x="0.431" y="18" fill="#645FAA">DESKTOP FRONT - STANDARD</tspan>
+                                </text>
+                                <text id="YOUR-WORKOUTS" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20.7999992" font-weight="500">
+                                    <tspan x="19.5" y="96" fill="#BBBDBF">YOUR WORKOUTS</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="btn-regular" transform="translate(89.000000, 685.000000)">
+                        <g id="btn-long-2">
+                            <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-57)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-56"></use>
+                            <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="goal" transform="translate(380.000000, 380.000000)">
+                        <g id="background">
+                            <mask id="mask-60" fill="white">
+                                <use xlink:href="#path-58"></use>
+                            </mask>
+                            <g id="Mask" stroke="#E5E5E5" mask="url(#mask-59)" stroke-width="4" fill="#FFFFFF">
+                                <use mask="url(#mask-61)" xlink:href="#path-58"></use>
+                            </g>
+                        </g>
+                        <rect id="Overlay" fill="url(#linearGradient-33)" x="2" y="67" width="366" height="296"></rect>
+                        <g id="Lines" transform="translate(18.000000, 172.000000)">
+                            <path d="M68.5,0 L68.5,177" id="Line" stroke="#ECF5FD" stroke-linecap="square" stroke-dasharray="5,5"></path>
+                            <path d="M1.5,0 L1.5,177" id="Line" stroke="#ECF5FD" stroke-linecap="square" stroke-dasharray="5,5"></path>
+                            <path d="M328.5,0 L328.5,177" id="Line" stroke="#ECF5FD" stroke-linecap="square" stroke-dasharray="5,5"></path>
+                            <path d="M131.5,0 L131.5,177" id="Line" stroke="#ECF5FD" stroke-linecap="square" stroke-dasharray="5,5"></path>
+                            <path d="M198.5,0 L198.5,177" id="Line" stroke="#ECF5FD" stroke-linecap="square" stroke-dasharray="5,5"></path>
+                            <path d="M262.5,0 L262.5,177" id="Line" stroke="#ECF5FD" stroke-linecap="square" stroke-dasharray="5,5"></path>
+                            <rect id="Line" fill="#E5EEF5" x="34" y="1" width="1" height="177"></rect>
+                            <rect id="Line" fill="#E5EEF5" x="229" y="1" width="1" height="177"></rect>
+                            <rect id="Line" fill="#E5EEF5" x="295" y="1" width="1" height="177"></rect>
+                            <rect id="Line" fill="#E5EEF5" x="99" y="1" width="1" height="177"></rect>
+                            <rect id="Line" fill="#E5EEF5" x="164" y="1" width="1" height="177"></rect>
+                        </g>
+                        <g id="btn-regular" transform="translate(93.000000, 305.000000)">
+                            <g id="btn-long-2">
+                                <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-63)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-62"></use>
+                                <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                    <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="REWARDS" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20.7999992" font-weight="500" fill="#BBBDBF">
+                            <tspan x="20" y="40">REWARDS</tspan>
+                        </text>
+                        <text id="$8,000" font-family="ProximaNova-Regular, Proxima Nova" font-size="55" font-weight="normal" line-spacing="55" fill="#D1D3D5">
+                            <tspan x="96" y="145">$8,000</tspan>
+                        </text>
+                        <text id="Your-rewards-in-the" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="25" fill="#666666">
+                            <tspan x="69" y="163">Your rewards in the last 3 months</tspan>
+                        </text>
+                        <path d="M18,255.385927 C19.2631161,255.385927 37.8732394,257.182192 49.5633803,251.878885 C61.2535211,246.575577 70.2434094,207.456347 76.9530392,207.456346 C85.1299361,207.456344 92.6450029,238.392474 103.000039,238.392477 C104.426266,238.392477 119.230544,215.76938 130.032982,216.144949 C139.195098,216.463489 148.00708,251.943997 156.638249,251.943996 C165.269418,251.943994 171.97187,179 183.246498,179 C192.781619,179 201.905852,287.492006 210.780222,287.492003 C219.654593,287.492 228.084546,202.380282 237.436658,202.380282 C248.295775,202.380282 257.165422,259.956064 264.304291,259.956064 C272.84507,259.956064 280.420458,215.965023 291.211306,219.211605 C296.258883,220.730241 308.066839,243.18587 316.174265,249.285899 C324.28169,255.385927 349.03993,249.285897 350,249.285897" id="Path" stroke="#D1D3D5" stroke-width="3"></path>
+                        <rect id="Rectangle-4" fill="#D8D8D8" x="0" y="67" width="370" height="1"></rect>
+                        <use id="Oval" stroke="#645FAA" mask="url(#mask-65)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-64"></use>
+                        <g id="More" transform="translate(344.000000, 20.000000)" fill="#666666">
+                            <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 L3,6 Z M3,10.2529745 C1.35,10.2529745 0,11.6029745 0,13.2529745 C0,14.9029745 1.35,16.2529745 3,16.2529745 C4.65,16.2529745 6,14.9029745 6,13.2529745 C6,11.6029745 4.65,10.2529745 3,10.2529745 L3,10.2529745 Z M3,20.505949 C1.35,20.505949 0,21.855949 0,23.505949 C0,25.155949 1.35,26.505949 3,26.505949 C4.65,26.505949 6,25.155949 6,23.505949 C6,21.855949 4.65,20.505949 3,20.505949 L3,20.505949 Z" id="Shape"></path>
+                        </g>
+                        <g id="popover" transform="translate(241.000000, 133.000000)">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-67)" xlink:href="#path-66"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-66"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-68)" xlink:href="#path-66"></use>
+                                <use stroke-opacity="0.8" stroke="#D3D3D3" mask="url(#mask-69)" stroke-width="2" xlink:href="#path-66"></use>
+                            </g>
+                            <g id="Preview" transform="translate(23.000000, 4.000000)" font-size="14" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="500">
+                                <g id="Content">
+                                    <text id="Sept-22,-2016" fill="#2E3F48">
+                                        <tspan x="0" y="14">Sept 22, 2016</tspan>
+                                    </text>
+                                    <g id="Label" transform="translate(0.000000, 24.000000)">
+                                        <text id="Rewards-Earned" fill="#333333">
+                                            <tspan x="0" y="14">Rewards</tspan>
+                                            <tspan x="0" y="31">Earned</tspan>
+                                        </text>
+                                        <text id="$4" fill="#666666">
+                                            <tspan x="0" y="50">$4</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Label" transform="translate(0.000000, 84.000000)">
+                                        <text id="Point" fill="#000000">
+                                            <tspan x="0" y="14">Point</tspan>
+                                            <tspan x="0" y="31">Gained</tspan>
+                                        </text>
+                                        <text id="25" fill="#666666">
+                                            <tspan x="0" y="47">25</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="biometrics-card" transform="translate(0.000000, 760.000000)">
+                        <use id="desktop---standard-wide-back" stroke="#ECECEC" mask="url(#mask-71)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-70"></use>
+                        <rect id="Overlay" fill="url(#linearGradient-33)" x="2" y="67" width="1126" height="301"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" x="0" y="67" width="1130" height="1"></rect>
+                        <g id="btn-regular" transform="translate(391.000000, 304.000000)">
+                            <g id="btn-long-2">
+                                <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-73)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-72"></use>
+                                <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                    <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="body-mass-index" transform="translate(391.000000, 120.000000)">
+                            <g id="btns" transform="translate(222.000000, 198.000000)" font-size="16" font-family="ProximaNova-Semibold, Proxima Nova" fill="#D1D3D5" font-weight="500">
+                                <g id="add-goal-btn">
+                                    <text id="ADD-GOAL">
+                                        <tspan x="0" y="16">ADD GOAL</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="blood-pressure-badge" transform="translate(0.000000, 97.500000)">
+                                <rect id="Rectangle-44" fill="#D1D3D5" x="0" y="0" width="170" height="30" rx="6"></rect>
+                                <text id="BODY-MASS-INDEX" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="16" y="21">BODY MASS INDEX</tspan>
+                                </text>
+                            </g>
+                            <text id="Weight:-125-lbs" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                <tspan x="0" y="79">Weight: 125 lbs</tspan>
+                            </text>
+                            <text id="14.4" font-family="ProximaNova-Regular, Proxima Nova" font-size="55" font-weight="normal" line-spacing="55" fill="#BBBDBF">
+                                <tspan x="0" y="63">14.4</tspan>
+                            </text>
+                            <path d="M106.5,0.5 C101.80545,0.5 98,4.30573336 98,9 C98,13.6942666 101.80545,17.5 106.5,17.5 C111.194266,17.5 115,13.6942666 115,9 C115,4.30573336 111.194266,0.5 106.5,0.5 L106.5,0.5 L106.5,0.5 Z M107.792566,14.3433834 C107.792566,14.5000666 107.665916,14.6267166 107.509234,14.6267166 L105.586816,14.6267166 C105.430416,14.6267166 105.303484,14.5000666 105.303484,14.3433834 L105.303484,12.4855666 C105.303484,12.3288834 105.430416,12.2022334 105.586816,12.2022334 L107.509234,12.2022334 C107.665916,12.2022334 107.792566,12.3288834 107.792566,12.4855666 L107.792566,14.3433834 L107.792566,14.3433834 Z M109.57275,7.97801664 C109.393116,8.23471664 109.068134,8.54468336 108.5791,8.92548336 L108.124634,9.27908336 C107.920634,9.43746664 107.790584,9.61313336 107.72655,9.81656664 C107.697366,9.90751664 107.661666,10.0987666 107.656566,10.4928834 C107.6543,10.6478666 107.528216,10.77225 107.373234,10.77225 L105.631866,10.77225 C105.555084,10.77225 105.481416,10.7410834 105.427866,10.68555 C105.3746,10.6303 105.345984,10.5557834 105.348534,10.479 C105.37545,9.71513336 105.4494,9.19295 105.57435,8.88213336 C105.705534,8.55573336 106.015216,8.20525 106.5204,7.81056664 L106.99385,7.44025 C107.1205,7.3459 107.223916,7.24078336 107.305234,7.12291664 C107.441516,6.93336664 107.5081,6.73333336 107.5081,6.5112 C107.5081,6.24316664 107.4316,6.00573336 107.274634,5.78501664 C107.14175,5.59773336 106.869184,5.50281664 106.464584,5.50281664 C106.069616,5.50281664 105.803,5.62125 105.649434,5.86435 C105.4698,6.1508 105.382534,6.43781664 105.382534,6.74211664 C105.382534,6.89851664 105.2556,7.02545 105.0992,7.02545 L103.241666,7.02545 C103.1646,7.02545 103.09065,6.994 103.0371,6.93818336 C102.983834,6.88265 102.955216,6.80756664 102.958616,6.73021664 C103.013584,5.41753336 103.487884,4.4678 104.36735,3.90765 C104.917016,3.55376664 105.595884,3.37441664 106.3844,3.37441664 C107.407516,3.37441664 108.275084,3.62601664 108.9633,4.12185 C109.679,4.63836664 110.04195,5.40761664 110.04195,6.40806664 C110.041666,7.0229 109.882716,7.55273336 109.57275,7.97801664 L109.57275,7.97801664 L109.57275,7.97801664 Z" id="question" fill="#ECECEC"></path>
+                            <g id="bmi-graph" transform="translate(205.000000, 65.000000)">
+                                <rect id="Rectangle-162" fill="#ECECEC" x="2.48484848" y="0.696969697" width="1.39393939" height="68.3030303"></rect>
+                                <rect id="Rectangle-162" fill="#ECECEC" transform="translate(57.545455, 68.303030) rotate(-270.000000) translate(-57.545455, -68.303030) " x="56.8484848" y="13.2424242" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy" fill="#ECECEC" transform="translate(57.545455, 59.939394) rotate(-270.000000) translate(-57.545455, -59.939394) " x="56.8484848" y="4.87878788" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-2" fill="#ECECEC" transform="translate(57.545455, 51.575758) rotate(-270.000000) translate(-57.545455, -51.575758) " x="56.8484848" y="-3.48484848" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-3" fill="#ECECEC" transform="translate(57.545455, 43.212121) rotate(-270.000000) translate(-57.545455, -43.212121) " x="56.8484848" y="-11.8484848" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-4" fill="#ECECEC" transform="translate(58.242424, 34.848485) rotate(-270.000000) translate(-58.242424, -34.848485) " x="57.5454545" y="-20.2121212" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-5" fill="#ECECEC" transform="translate(58.939394, 26.484848) rotate(-270.000000) translate(-58.939394, -26.484848) " x="58.2424242" y="-28.5757576" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-6" fill="#ECECEC" transform="translate(58.242424, 18.121212) rotate(-270.000000) translate(-58.242424, -18.121212) " x="57.5454545" y="-36.9393939" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-7" fill="#ECECEC" transform="translate(57.545455, 9.757576) rotate(-270.000000) translate(-57.545455, -9.757576) " x="56.8484848" y="-45.3030303" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-8" fill="#ECECEC" transform="translate(57.545455, 0.925689) rotate(-270.000000) translate(-57.545455, -0.925689) " x="56.8484848" y="-54.1349167" width="1.39393939" height="110.121212"></rect>
+                                <path d="M3,11 C3.99999969,12.0000037 90,-5.83503152e-08 112,4" id="Path-281" stroke="#BBBDBF"></path>
+                                <ellipse id="Oval-189" fill="#BBBDBF" cx="2.5" cy="11.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy" fill="#BBBDBF" cx="111.5" cy="3.5" rx="2.5" ry="2.5"></ellipse>
+                            </g>
+                        </g>
+                        <g id="hip-waist-ratio" transform="translate(487.000000, 9.000000)">
+                            <g id="history-btn-copy-5" transform="translate(504.000000, 309.000000)" font-size="16" font-family="ProximaNova-Semibold, Proxima Nova" fill="#D1D3D5" font-weight="500">
+                                <text id="ADD-GOAL">
+                                    <tspan x="0" y="16">ADD GOAL</tspan>
+                                </text>
+                            </g>
+                            <g id="blood-pressure-copy-2" transform="translate(285.000000, 115.000000)">
+                                <text id="0.46" font-family="ProximaNova-Regular, Proxima Nova" font-size="55" font-weight="normal" line-spacing="55" fill="#BBBDBF">
+                                    <tspan x="0" y="54">0.46</tspan>
+                                </text>
+                                <g id="Group" transform="translate(0.000000, 55.000000)">
+                                    <g id="blood-pressure-badge" transform="translate(0.000000, 40.000000)">
+                                        <rect id="Rectangle-44" fill="#D1D3D5" x="0" y="0" width="170" height="30" rx="6"></rect>
+                                        <text id="HIP-WAIST-RATIO" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                                            <tspan x="16" y="21">HIP-WAIST RATIO</tspan>
+                                        </text>
+                                    </g>
+                                    <text id="Hip-Waist:-15/36-in" font-family="OpenSans, Open Sans" font-size="22" font-weight="normal" fill="#BBBDBF">
+                                        <tspan x="0" y="24">Hip-Waist: 15/36 in</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="modal">
+                                <g id="Combined-Shape">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-75)" xlink:href="#path-74"></use>
+                                    <use fill="#F9F9FB" fill-rule="evenodd" xlink:href="#path-74"></use>
+                                </g>
+                                <text id="Your-BMI-is-below-no" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" fill="#BBBDBF">
+                                    <tspan x="12" y="23">Your BMI is below normal. Consider </tspan>
+                                    <tspan x="12" y="40">some healthy weight gain through </tspan>
+                                    <tspan x="12" y="57">protein-rich foods and muscle </tspan>
+                                    <tspan x="12" y="74">strengthening exercises.</tspan>
+                                </text>
+                            </g>
+                            <g id="btn-regular" transform="translate(284.000000, 295.000000)">
+                                <g id="btn-long-2">
+                                    <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-77)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-76"></use>
+                                    <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                        <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <path d="M415.985906,106.5 C411.291356,106.5 407.485906,110.305733 407.485906,115 C407.485906,119.694267 411.291356,123.5 415.985906,123.5 C420.680172,123.5 424.485906,119.694267 424.485906,115 C424.485906,110.305733 420.680172,106.5 415.985906,106.5 L415.985906,106.5 L415.985906,106.5 Z M417.278472,120.343383 C417.278472,120.500067 417.151822,120.626717 416.99514,120.626717 L415.072722,120.626717 C414.916322,120.626717 414.78939,120.500067 414.78939,120.343383 L414.78939,118.485567 C414.78939,118.328883 414.916322,118.202233 415.072722,118.202233 L416.99514,118.202233 C417.151822,118.202233 417.278472,118.328883 417.278472,118.485567 L417.278472,120.343383 L417.278472,120.343383 Z M419.058656,113.978017 C418.879022,114.234717 418.55404,114.544683 418.065006,114.925483 L417.61054,115.279083 C417.40654,115.437467 417.27649,115.613133 417.212456,115.816567 C417.183272,115.907517 417.147572,116.098767 417.142472,116.492883 C417.140206,116.647867 417.014122,116.77225 416.85914,116.77225 L415.117772,116.77225 C415.04099,116.77225 414.967322,116.741083 414.913772,116.68555 C414.860506,116.6303 414.83189,116.555783 414.83444,116.479 C414.861356,115.715133 414.935306,115.19295 415.060256,114.882133 C415.19144,114.555733 415.501122,114.20525 416.006306,113.810567 L416.479756,113.44025 C416.606406,113.3459 416.709822,113.240783 416.79114,113.122917 C416.927422,112.933367 416.994006,112.733333 416.994006,112.5112 C416.994006,112.243167 416.917506,112.005733 416.76054,111.785017 C416.627656,111.597733 416.35509,111.502817 415.95049,111.502817 C415.555522,111.502817 415.288906,111.62125 415.13534,111.86435 C414.955706,112.1508 414.86844,112.437817 414.86844,112.742117 C414.86844,112.898517 414.741506,113.02545 414.585106,113.02545 L412.727572,113.02545 C412.650506,113.02545 412.576556,112.994 412.523006,112.938183 C412.46974,112.88265 412.441122,112.807567 412.444522,112.730217 C412.49949,111.417533 412.97379,110.4678 413.853256,109.90765 C414.402922,109.553767 415.08179,109.374417 415.870306,109.374417 C416.893422,109.374417 417.76099,109.626017 418.449206,110.12185 C419.164906,110.638367 419.527856,111.407617 419.527856,112.408067 C419.527572,113.0229 419.368622,113.552733 419.058656,113.978017 L419.058656,113.978017 L419.058656,113.978017 Z" id="question" fill="#ECECEC"></path>
+                            <g id="graph-waist---hips" transform="translate(508.000000, 171.000000)">
+                                <rect id="Rectangle-162" fill="#ECECEC" x="2.48484848" y="0.696969697" width="1.39393939" height="68.3030303"></rect>
+                                <rect id="Rectangle-162" fill="#ECECEC" transform="translate(57.545455, 68.303030) rotate(-270.000000) translate(-57.545455, -68.303030) " x="56.8484848" y="13.2424242" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy" fill="#ECECEC" transform="translate(57.545455, 59.939394) rotate(-270.000000) translate(-57.545455, -59.939394) " x="56.8484848" y="4.87878788" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-2" fill="#ECECEC" transform="translate(57.545455, 51.575758) rotate(-270.000000) translate(-57.545455, -51.575758) " x="56.8484848" y="-3.48484848" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-3" fill="#ECECEC" transform="translate(57.545455, 43.212121) rotate(-270.000000) translate(-57.545455, -43.212121) " x="56.8484848" y="-11.8484848" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-4" fill="#ECECEC" transform="translate(58.242424, 34.848485) rotate(-270.000000) translate(-58.242424, -34.848485) " x="57.5454545" y="-20.2121212" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-5" fill="#ECECEC" transform="translate(58.939394, 26.484848) rotate(-270.000000) translate(-58.939394, -26.484848) " x="58.2424242" y="-28.5757576" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-6" fill="#ECECEC" transform="translate(58.242424, 18.121212) rotate(-270.000000) translate(-58.242424, -18.121212) " x="57.5454545" y="-36.9393939" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-7" fill="#ECECEC" transform="translate(57.545455, 9.757576) rotate(-270.000000) translate(-57.545455, -9.757576) " x="56.8484848" y="-45.3030303" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-8" fill="#ECECEC" transform="translate(57.545455, 0.925689) rotate(-270.000000) translate(-57.545455, -0.925689) " x="56.8484848" y="-54.1349167" width="1.39393939" height="110.121212"></rect>
+                                <path d="M3,11 C3.99999969,12.0000037 90,-5.83503179e-08 112,4" id="Path-281" stroke="#BBBDBF"></path>
+                                <path d="M4,29.8192682 C4.99999969,30.8192719 91,18.8192681 113,22.8192682" id="Path-281-Copy" stroke="#BBBDBF"></path>
+                                <path d="M3,48.698056 C3.99999969,49.6980597 90,37.698056 112,41.698056" id="Path-281-Copy-2" stroke="#BBBDBF"></path>
+                                <ellipse id="Oval-189" fill="#BBBDBF" cx="2.5" cy="11.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy-2" fill="#D1D3D5" cx="2.5" cy="29.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy-4" fill="#BBBDBF" cx="2.5" cy="48.3787879" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy" fill="#BBBDBF" cx="111.5" cy="3.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy-3" fill="#D1D3D5" cx="112.5" cy="22.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy-5" fill="#BBBDBF" cx="111.5" cy="41.5" rx="2.5" ry="2.5"></ellipse>
+                            </g>
+                        </g>
+                        <g id="blood-pressure" transform="translate(20.000000, 9.000000)">
+                            <g id="btns" transform="translate(219.000000, 309.000000)" font-size="16" font-family="ProximaNova-Semibold, Proxima Nova" fill="#D1D3D5" font-weight="500">
+                                <g id="history-btn-copy">
+                                    <text id="ADD-GOAL">
+                                        <tspan x="0" y="16">ADD GOAL</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="blood-pressure-badge" transform="translate(0.000000, 215.250000)">
+                                <rect id="Rectangle-44" fill="#D1D3D5" x="0" y="0" width="170" height="30" rx="6"></rect>
+                                <text id="BLOOD-PRESSURE" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" line-spacing="16" fill="#FFFFFF">
+                                    <tspan x="16" y="24">BLOOD PRESSURE</tspan>
+                                </text>
+                            </g>
+                            <text id="mmHG" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="24" fill="#BBBDBF">
+                                <tspan x="0" y="197.25">mmHG</tspan>
+                            </text>
+                            <text id="160/90" font-family="ProximaNova-Regular, Proxima Nova" font-size="55" font-weight="normal" line-spacing="55" fill="#BBBDBF">
+                                <tspan x="0" y="180.25">160/90</tspan>
+                            </text>
+                            <path d="M178.5,117.75 C173.80545,117.75 170,121.555733 170,126.25 C170,130.944267 173.80545,134.75 178.5,134.75 C183.194266,134.75 187,130.944267 187,126.25 C187,121.555733 183.194266,117.75 178.5,117.75 L178.5,117.75 L178.5,117.75 Z M179.792566,131.593383 C179.792566,131.750067 179.665916,131.876717 179.509234,131.876717 L177.586816,131.876717 C177.430416,131.876717 177.303484,131.750067 177.303484,131.593383 L177.303484,129.735567 C177.303484,129.578883 177.430416,129.452233 177.586816,129.452233 L179.509234,129.452233 C179.665916,129.452233 179.792566,129.578883 179.792566,129.735567 L179.792566,131.593383 L179.792566,131.593383 Z M181.57275,125.228017 C181.393116,125.484717 181.068134,125.794683 180.5791,126.175483 L180.124634,126.529083 C179.920634,126.687467 179.790584,126.863133 179.72655,127.066567 C179.697366,127.157517 179.661666,127.348767 179.656566,127.742883 C179.6543,127.897867 179.528216,128.02225 179.373234,128.02225 L177.631866,128.02225 C177.555084,128.02225 177.481416,127.991083 177.427866,127.93555 C177.3746,127.8803 177.345984,127.805783 177.348534,127.729 C177.37545,126.965133 177.4494,126.44295 177.57435,126.132133 C177.705534,125.805733 178.015216,125.45525 178.5204,125.060567 L178.99385,124.69025 C179.1205,124.5959 179.223916,124.490783 179.305234,124.372917 C179.441516,124.183367 179.5081,123.983333 179.5081,123.7612 C179.5081,123.493167 179.4316,123.255733 179.274634,123.035017 C179.14175,122.847733 178.869184,122.752817 178.464584,122.752817 C178.069616,122.752817 177.803,122.87125 177.649434,123.11435 C177.4698,123.4008 177.382534,123.687817 177.382534,123.992117 C177.382534,124.148517 177.2556,124.27545 177.0992,124.27545 L175.241666,124.27545 C175.1646,124.27545 175.09065,124.244 175.0371,124.188183 C174.983834,124.13265 174.955216,124.057567 174.958616,123.980217 C175.013584,122.667533 175.487884,121.7178 176.36735,121.15765 C176.917016,120.803767 177.595884,120.624417 178.3844,120.624417 C179.407516,120.624417 180.275084,120.876017 180.9633,121.37185 C181.679,121.888367 182.04195,122.657617 182.04195,123.658067 C182.041666,124.2729 181.882716,124.802733 181.57275,125.228017 L181.57275,125.228017 L181.57275,125.228017 Z" id="question" fill="#ECECEC"></path>
+                            <g id="graph-blood-pressure" transform="translate(201.500000, 176.250000)">
+                                <rect id="Rectangle-162" fill="#ECECEC" x="2.48484848" y="0.696969697" width="1.39393939" height="68.3030303"></rect>
+                                <rect id="Rectangle-162" fill="#ECECEC" transform="translate(57.545455, 68.303030) rotate(-270.000000) translate(-57.545455, -68.303030) " x="56.8484848" y="13.2424242" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy" fill="#ECECEC" transform="translate(57.545455, 59.939394) rotate(-270.000000) translate(-57.545455, -59.939394) " x="56.8484848" y="4.87878788" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-2" fill="#ECECEC" transform="translate(57.545455, 51.575758) rotate(-270.000000) translate(-57.545455, -51.575758) " x="56.8484848" y="-3.48484848" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-3" fill="#ECECEC" transform="translate(58.060606, 43.696970) rotate(-270.000000) translate(-58.060606, -43.696970) " x="57.3636364" y="-11.3636364" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-4" fill="#ECECEC" transform="translate(58.242424, 34.848485) rotate(-270.000000) translate(-58.242424, -34.848485) " x="57.5454545" y="-20.2121212" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-5" fill="#ECECEC" transform="translate(58.939394, 26.484848) rotate(-270.000000) translate(-58.939394, -26.484848) " x="58.2424242" y="-28.5757576" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-6" fill="#ECECEC" transform="translate(58.242424, 18.121212) rotate(-270.000000) translate(-58.242424, -18.121212) " x="57.5454545" y="-36.9393939" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-7" fill="#ECECEC" transform="translate(57.545455, 9.757576) rotate(-270.000000) translate(-57.545455, -9.757576) " x="56.8484848" y="-45.3030303" width="1.39393939" height="110.121212"></rect>
+                                <rect id="Rectangle-162-Copy-8" fill="#ECECEC" transform="translate(57.545455, 0.925689) rotate(-270.000000) translate(-57.545455, -0.925689) " x="56.8484848" y="-54.1349167" width="1.39393939" height="110.121212"></rect>
+                                <path d="M3,11 C3.99999969,12.0000037 90,-5.83500879e-08 112,4" id="Path-281" stroke="#BBBDBF"></path>
+                                <path d="M4,29.8192682 C4.99999969,30.8192719 91,18.8192681 113,22.8192682" id="Path-281-Copy" stroke="#BBBDBF"></path>
+                                <ellipse id="Oval-189" fill="#BBBDBF" cx="2.5" cy="11.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy-2" fill="#D1D3D5" cx="2.5" cy="29.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy" fill="#BBBDBF" cx="111.5" cy="3.5" rx="2.5" ry="2.5"></ellipse>
+                                <ellipse id="Oval-189-Copy-3" fill="#D1D3D5" cx="112.5" cy="22.5" rx="2.5" ry="2.5"></ellipse>
+                            </g>
+                        </g>
+                        <text id="BIOMETRICS" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20.7999992" font-weight="500" fill="#BBBDBF">
+                            <tspan x="20" y="45">BIOMETRICS</tspan>
+                        </text>
+                    </g>
+                    <g id="More" transform="translate(1102.000000, 780.000000)" fill="#666666">
+                        <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 L3,6 Z M3,10.2529745 C1.35,10.2529745 0,11.6029745 0,13.2529745 C0,14.9029745 1.35,16.2529745 3,16.2529745 C4.65,16.2529745 6,14.9029745 6,13.2529745 C6,11.6029745 4.65,10.2529745 3,10.2529745 L3,10.2529745 Z M3,20.505949 C1.35,20.505949 0,21.855949 0,23.505949 C0,25.155949 1.35,26.505949 3,26.505949 C4.65,26.505949 6,25.155949 6,23.505949 C6,21.855949 4.65,20.505949 3,20.505949 L3,20.505949 Z" id="Shape"></path>
+                    </g>
+                    <g id="btn-regular" transform="translate(20.233071, 1064.516040)">
+                        <g id="btn-long-2">
+                            <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-79)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-78"></use>
+                            <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="your-diet-journal-card" transform="translate(0.000000, 1140.000000)">
+                        <mask id="mask-82" fill="white">
+                            <use xlink:href="#path-80"></use>
+                        </mask>
+                        <g id="Mask" stroke="#ECECEC" mask="url(#mask-81)" stroke-width="4" fill="#FFFFFF">
+                            <use mask="url(#mask-83)" xlink:href="#path-80"></use>
+                        </g>
+                        <rect id="Overlay" fill="url(#linearGradient-33)" mask="url(#mask-82)" x="2" y="68" width="366" height="299"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" mask="url(#mask-82)" x="-1" y="67" width="370" height="1"></rect>
+                        <g id="More" mask="url(#mask-82)" fill="#666666">
+                            <g transform="translate(342.000000, 20.000000)" id="Shape">
+                                <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 L3,6 Z M3,10.2529745 C1.35,10.2529745 0,11.6029745 0,13.2529745 C0,14.9029745 1.35,16.2529745 3,16.2529745 C4.65,16.2529745 6,14.9029745 6,13.2529745 C6,11.6029745 4.65,10.2529745 3,10.2529745 L3,10.2529745 Z M3,20.505949 C1.35,20.505949 0,21.855949 0,23.505949 C0,25.155949 1.35,26.505949 3,26.505949 C4.65,26.505949 6,25.155949 6,23.505949 C6,21.855949 4.65,20.505949 3,20.505949 L3,20.505949 Z"></path>
+                            </g>
+                        </g>
+                        <rect id="divider" fill="#F1F1F2" x="20" y="156" width="330" height="1"></rect>
+                        <rect id="divider" fill="#F1F1F2" x="20" y="218.439833" width="330" height="1"></rect>
+                        <g id="header" transform="translate(20.000000, 20.000000)" font-size="20.7999992" font-family="ProximaNova-Semibold, Proxima Nova" fill="#BBBDBF" font-weight="500">
+                            <text id="YOUR-DIET-JOURNAL">
+                                <tspan x="0.5" y="20">YOUR DIET JOURNAL</tspan>
+                            </text>
+                        </g>
+                        <g id="weekly-diet" transform="translate(20.000000, 167.000000)">
+                            <g id="check-copy" transform="translate(0.000000, 6.000000)">
+                                <path d="M14.5,29 C22.5081289,29 29,22.5081289 29,14.5 C29,6.49187113 22.5081289,0 14.5,0 C6.49187113,0 0,6.49187113 0,14.5 C0,22.5081289 6.49187113,29 14.5,29 Z" id="Oval-134" stroke="#BBBDBF" stroke-width="2" fill="#F1F1F2"></path>
+                                <g id="check-" transform="translate(4.580303, 7.557576)" fill="#BBBDBF">
+                                    <path d="M7.99695433,12.7329176 L18.0238849,2.70598699 C18.6054016,2.12447034 18.6063406,1.17378386 18.0205542,0.587997419 C17.4306837,-0.00187301361 16.4865115,0.000719742409 15.9025646,0.584666643 L6.62441044,9.86282081 L3.27943574,6.3989981 C2.71405267,5.8135268 1.76108723,5.79346933 1.16516663,6.36894316 C0.56509138,6.9484291 0.549658355,7.89090049 1.12141634,8.48297321 L5.20324312,12.7098286 C5.27436632,12.8565798 5.37079973,12.9941541 5.4925986,13.115953 C5.81066558,13.43402 6.23174681,13.5798266 6.64381995,13.5551146 C7.02273625,13.5578891 7.40429743,13.4189367 7.69871022,13.1346256 C7.82335885,13.0142538 7.92278117,12.8782198 7.99695433,12.7329176 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                            <g id="Group-6" transform="translate(46.000000, 0.000000)" fill="#BBBDBF">
+                                <text id="Weekly-Diet-Tip" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="24">
+                                    <tspan x="0" y="16">Weekly Diet Tip</tspan>
+                                </text>
+                                <text id="Eat-5-Veggies-/-day" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal">
+                                    <tspan x="0" y="38">Eat 5 Veggies / day</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="decrease-alcohol" transform="translate(20.000000, 230.000000)">
+                            <g id="btn-small" transform="translate(219.000000, 15.416889)">
+                                <g transform="translate(0.411958, 0.000000)">
+                                    <use id="Rectangle-67" stroke="#D1D3D5" mask="url(#mask-85)" stroke-width="2" xlink:href="#path-84"></use>
+                                    <text id="BUTTON" font-family="ProximaNova-Semibold, Proxima Nova" font-size="14" font-weight="500" line-spacing="14" fill="#D1D3D5">
+                                        <tspan x="26.188" y="20.98">ENROLL</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="check-copy" transform="translate(0.000000, 7.416889)" stroke="#BBBDBF" stroke-width="2" fill="#F1F1F2">
+                                <path d="M14.5,29 C22.5081289,29 29,22.5081289 29,14.5 C29,6.49187113 22.5081289,0 14.5,0 C6.49187113,0 0,6.49187113 0,14.5 C0,22.5081289 6.49187113,29 14.5,29 Z" id="Oval-134"></path>
+                            </g>
+                            <g id="Group-4" transform="translate(46.000000, 0.416889)" fill="#BBBDBF">
+                                <text id="Decrease-Alcohol" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="24">
+                                    <tspan x="0.233070555" y="16.1807469">Decrease Alcohol</tspan>
+                                </text>
+                                <text id="Enroll-in-our-Alcoho" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal">
+                                    <tspan x="0.233070555" y="38.1807469">Enroll in our Alcohol </tspan>
+                                    <tspan x="0.233070555" y="55.1807469">Awareness Module</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="healthy-choices" transform="translate(20.000000, 103.000000)">
+                            <g id="check-copy" transform="translate(0.000000, 7.000000)">
+                                <path d="M14.5,29 C22.5081289,29 29,22.5081289 29,14.5 C29,6.49187113 22.5081289,0 14.5,0 C6.49187113,0 0,6.49187113 0,14.5 C0,22.5081289 6.49187113,29 14.5,29 Z" id="Oval-134" stroke="#BBBDBF" stroke-width="2" fill="#F1F1F2"></path>
+                                <g id="check-" transform="translate(4.580303, 7.557576)" fill="#BBBDBF">
+                                    <path d="M7.99695433,12.7329176 L18.0238849,2.70598699 C18.6054016,2.12447034 18.6063406,1.17378386 18.0205542,0.587997419 C17.4306837,-0.00187301361 16.4865115,0.000719742409 15.9025646,0.584666643 L6.62441044,9.86282081 L3.27943574,6.3989981 C2.71405267,5.8135268 1.76108723,5.79346933 1.16516663,6.36894316 C0.56509138,6.9484291 0.549658355,7.89090049 1.12141634,8.48297321 L5.20324312,12.7098286 C5.27436632,12.8565798 5.37079973,12.9941541 5.4925986,13.115953 C5.81066558,13.43402 6.23174681,13.5798266 6.64381995,13.5551146 C7.02273625,13.5578891 7.40429743,13.4189367 7.69871022,13.1346256 C7.82335885,13.0142538 7.92278117,12.8782198 7.99695433,12.7329176 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                            <g id="Group-8" transform="translate(46.000000, 0.000000)" fill="#BBBDBF">
+                                <text id="Enroll-in-our-Health" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal">
+                                    <tspan x="0.233070555" y="39.3161787">Enroll in our Healthy Living Module</tspan>
+                                </text>
+                                <text id="Healthy-Diet-Choices" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="24">
+                                    <tspan x="0.233070555" y="16.8441787">Healthy Diet Choices</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="btn-regular" transform="translate(89.000000, 305.000000)">
+                            <g id="btn-long-2">
+                                <use id="Rectangle-1" stroke="#BBBDBF" mask="url(#mask-87)" stroke-width="2" fill="#F1F1F2" xlink:href="#path-86"></use>
+                                <text id="SEE-MORE" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" fill="#BBBDBF">
+                                    <tspan x="50.1472632" y="29.136">SEE MORE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Popover" transform="translate(582.000000, 929.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

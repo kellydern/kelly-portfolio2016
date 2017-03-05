@@ -20,3 +20,27 @@
   }
 }
 
+.btn--tag {
+  padding: 15px 40px;
+  border: 0;
+  border-radius : $br--default;
+  color: $color-accent;
+  text-transform: uppercase;
+  letter-spacing: $letter-space;
+  font-size: em(16px);
+  font-weight: $font-weight--medium;
+  transition: opacity $trns-duration;
+  display: block;
+  background-color: $light-grey;
+    @extend %center-align;
+    margin-bottom: em(35px, 14px); 
+    @include mq(small) {
+    width: 100%;
+  }
+  @include mq(medium) {
+    @include doubly(20px);
+    width: auto;
+    display: inline-block;
+  }
+}
+

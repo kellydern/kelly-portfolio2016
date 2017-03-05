@@ -145,6 +145,7 @@
   color: $color;
 }
 
+// SVG Images
 
 @mixin background-image($img) {
   background-image: url('#{$path--rel}/#{$img}');

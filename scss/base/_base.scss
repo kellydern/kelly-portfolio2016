@@ -29,7 +29,7 @@ h2 {
 }
 
 h2.main {
-	color: $color-primary;
+	color: $color-accent;
 	text-align: center;
 }
 
@@ -53,12 +53,27 @@ h4 {
 	font-size: em(22px);
 }
 
+h4.Heading-blog {
+	margin-bottom: em(5px);
+}
+
+h5 {
+	font-weight: $font-weight--ultra-bold;
+	font-size: em(22px);
+	color: $color-primary;	
+	margin-bottom: em(20px);
+	margin-top: 0;
+}
+
 a {
 	color: $color-primary; 
 	text-decoration: none;
 	font-weight: $font-weight--medium;
 }
 
+a.Primary-italics {
+	font-family: font-family--italic;
+}
 p {
 	margin: 0 0 em(30px, 18px);
 	font-family: $font-family--secondary;
@@ -91,19 +106,34 @@ li {
 	text-align: center;
 }
 
-ul.main-page {
-	font-size: em(20px);
-	line-height: (32px/18px);
-	color: $color-primary;
-	text-align: center;
+ol li {
+  	font-weight: $font-weight--light;
+	font-size: em(18px);
+	line-height: (27px/18px);
+	list-style-type: circle;
+	text-align: left;
+}
+
+ul.List--blog li:first-child {
+	float: left;
+	margin: em(10px);
+}
+
+ul.List--blog li:last-child {
+	float: right;
 }
 
 // Images
 
 img {
-  margin-bottom: em(75px);
+  margin-bottom: em(100px);
+  margin-top: em(40px);
   max-width: 100%;
   height: auto;
+  	@include mq(small) {
+  		margin-bottom: em(20px);
+  	}
+
 }
 
 // Form elements
@@ -135,20 +165,21 @@ footer {
 		font-size: em(16px);
 		margin-top: em(22px, 16px);
 		text-align: center;
-		color: $color-primary;
+		color: $black;
 	}
 	li a {
-		color: $color-primary;
+		color: $black;
 	}
 }
 
 .case__container {
 	padding-top: em(50px);
 	padding-bottom: em(50px);
+	margin-bottom: 0;
 	ul {
 		display: inline-block;
 		vertical-align: top;
-		color: $color-primary;
+		color: $black;
 		text-align: center;
 		margin: 0 em(20px, 10px);
 		@include mq(small) {
@@ -157,7 +188,7 @@ footer {
 		}
 	}
 	li a {
-		color: $color-primary;
+		color: $black;
 		font-size: em(14px);
 	}
 	li a:hover {

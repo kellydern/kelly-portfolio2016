@@ -5,7 +5,7 @@
 // Logo
 
 .site-logo {
-	@include img-replace("kelly-logo.svg", 100px, 100px, inline-block);
+	@include img-replace("kelly-logo.svg", 60px, 60px, inline-block);
 }
 
 //@mixin img-replace($img, $w, $h, $disp: block) //

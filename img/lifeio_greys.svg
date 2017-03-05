@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1607px" height="845px" viewBox="0 0 1607 845" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Current grey palette</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="148" height="92" rx="5"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="148" height="92" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="148" height="92" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="UI-Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Current-grey-palette">
+            <rect id="Rectangle" fill="#F9F9FB" x="0" y="0" width="2000" height="1024"></rect>
+            <g id="greys" transform="translate(66.000000, 119.000000)">
+                <g id="slate" transform="translate(0.000000, 0.748530)">
+                    <rect id="Rectangle-2" fill="#2E3F48" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#353535-$gray-dark" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="50.814" y="128">#353535</tspan>
+                        <tspan x="46.44" y="142">$gray-dark</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(1328.000000, 1.000000)">
+                    <use id="Rectangle-2" stroke="#EBEBEB" mask="url(#mask-2)" stroke-width="2" fill="#F9F9F9" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 133.000000) rotate(-180.000000) translate(-74.000000, -133.000000) " x="0" y="93" width="148" height="80" rx="5"></rect>
+                    <text id="#F9F9F9-$base-backgr" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="50.3057206" y="130">#F9F9F9</tspan>
+                        <tspan x="9.69772061" y="144">$base-background-color</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(167.000000, 0.748530)">
+                    <rect id="Rectangle-2" fill="#484848" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#484848-$gray-dark-m" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="50.958" y="128">#484848</tspan>
+                        <tspan x="23.46" y="142">$gray-dark-medium</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(333.000000, 0.748530)">
+                    <rect id="Rectangle-2" fill="#777777" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#777-$gray-dark-medi" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="61.19" y="128">#777</tspan>
+                        <tspan x="14.384" y="142">$gray-dark-medium-alt</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(499.000000, 0.748530)">
+                    <rect id="Rectangle-2" fill="#6D6E70" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#6D6E70-$gray-medium" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="49.492" y="128">#6D6E70</tspan>
+                        <tspan x="36.436" y="142">$gray-medium</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(665.000000, 0.748530)">
+                    <rect id="Rectangle-2" fill="#636363" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#636363-$gray-medium" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="50.296" y="128">#636363</tspan>
+                        <tspan x="28.36" y="142">$gray-medium-alt</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(831.000000, 0.748530)">
+                    <rect id="Rectangle-2" fill="#D3D3D3" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#D3D3D3-$gray-light" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="48.334" y="128">#D3D3D3</tspan>
+                        <tspan x="46.396" y="142">$gray-light</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(996.000000, 1.000000)">
+                    <rect id="Rectangle-2" fill="#B4AEAE" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#B4AEAE-$gray-light-" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="49.114" y="128">#B4AEAE</tspan>
+                        <tspan x="23.416" y="142">$gray-light-medium</tspan>
+                    </text>
+                </g>
+                <g id="Group-10" transform="translate(1162.000000, 1.000000)">
+                    <rect id="Rectangle-2" fill="#C5C5C5" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 115.599616) rotate(-180.000000) translate(-74.000000, -115.599616) " x="0" y="90.5996165" width="148" height="50" rx="5"></rect>
+                    <text id="#c5c5c5-$gray-light-" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" fill="#435062">
+                        <tspan x="47.085" y="112">#c5c5c5</tspan>
+                        <tspan x="31.79" y="129">$gray-light-alt</tspan>
+                    </text>
+                </g>
+                <g id="Group-9" transform="translate(0.000000, 234.000000)">
+                    <rect id="Rectangle-2" fill="#D2D2D2" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#D2D2D2-$gray-lighte" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="47.776" y="128">#D2D2D2</tspan>
+                        <tspan x="18.058" y="142">$gray-lighter-medium</tspan>
+                    </text>
+                </g>
+                <g id="Group-8" transform="translate(166.000000, 234.000000)">
+                    <rect id="Rectangle-2" fill="#E4DEDE" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#E4DEDE-$gray-lighte" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="48.97" y="128">#E4DEDE</tspan>
+                        <tspan x="41.038" y="142">$gray-lighter</tspan>
+                    </text>
+                </g>
+                <g id="Group-7" transform="translate(332.000000, 234.000000)">
+                    <rect id="Rectangle-2" fill="#E5E5E5" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#E5E5E5-$gray-lighte" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="49.598" y="128">#E5E5E5</tspan>
+                        <tspan x="32.462" y="142">$gray-lighter-alt</tspan>
+                    </text>
+                </g>
+                <g id="Group-6" transform="translate(498.000000, 234.000000)">
+                    <rect id="Rectangle-2" fill="#EBEBEB" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#EBEBEB-$gray-lighte" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="49.396" y="128">#EBEBEB</tspan>
+                        <tspan x="38.464" y="142">$gray-lightest</tspan>
+                    </text>
+                </g>
+                <g id="Group-5" transform="translate(664.000000, 234.000000)">
+                    <rect id="Rectangle-2" fill="#BBBCBF" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#BBBCBF-$gray-blue" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="48.508" y="128">#BBBCBF</tspan>
+                        <tspan x="46.132" y="142">$gray-blue</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(830.000000, 234.000000)">
+                    <rect id="Rectangle-2" fill="#969697" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#969697-$gray-blue-d" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="49.64" y="128">#969697</tspan>
+                        <tspan x="32.156" y="142">$gray-blue-dark</tspan>
+                    </text>
+                </g>
+                <g id="Group-9-Copy" transform="translate(0.000000, 436.455286)">
+                    <rect id="Rectangle-2" fill="#D2D2D2" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#FFF-$white" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="61.06" y="128">#FFF</tspan>
+                        <tspan x="56.734" y="142">$white</tspan>
+                    </text>
+                </g>
+                <g id="Group-8-Copy" transform="translate(166.000000, 436.455286)">
+                    <use id="Rectangle-2" stroke="#EBEBEB" mask="url(#mask-4)" stroke-width="2" fill="#F7F6F6" xlink:href="#path-3"></use>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.462711, 131.000000) rotate(-180.000000) translate(-74.462711, -131.000000) " x="0.462711395" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#f7f6f6-$white-dark" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="55.684" y="128">#f7f6f6</tspan>
+                        <tspan x="43.258" y="142">$white-dark</tspan>
+                    </text>
+                </g>
+                <g id="Group-7-Copy" transform="translate(332.000000, 436.455286)">
+                    <rect id="Rectangle-2" fill="#E5E5E5" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.462711, 131.000000) rotate(-180.000000) translate(-74.462711, -131.000000) " x="0.462711395" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#f8f8f8-$white-mediu" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="54.908" y="128">#f8f8f8</tspan>
+                        <tspan x="33.254" y="142">$white-medium</tspan>
+                    </text>
+                </g>
+                <g id="Group-6-Copy" transform="translate(498.000000, 436.455286)">
+                    <rect id="Rectangle-2" fill="#A9A9AA" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.500000, 131.000000) rotate(-180.000000) translate(-74.500000, -131.000000) " x="0.5" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#a9a9aa-$white-blue" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="51.22" y="128">#a9a9aa</tspan>
+                        <tspan x="43.45" y="142">$white-blue</tspan>
+                    </text>
+                </g>
+                <g id="Group-5-Copy" transform="translate(664.000000, 436.455286)">
+                    <rect id="Rectangle-2" fill="#BBBCBF" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.462711, 131.000000) rotate(-180.000000) translate(-74.462711, -131.000000) " x="0.462711395" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#f7f5f5-$white-red" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="55.696" y="128">#f7f5f5</tspan>
+                        <tspan x="46.126" y="142">$white-red</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(996.000000, 234.000000)">
+                    <rect id="Rectangle-2" fill="#C4BABA" x="0.462711395" y="0.79901266" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#C4BABA-$gray-red" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="47.612" y="128">#C4BABA</tspan>
+                        <tspan x="48.308" y="142">$gray-red</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(1162.000000, 235.000000)">
+                    <rect id="Rectangle-2" fill="#928B8B" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#928B8B-$gray-red-da" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="49.366" y="128">#928B8B</tspan>
+                        <tspan x="35.332" y="142">$gray-red-dark</tspan>
+                    </text>
+                </g>
+                <g id="slate" transform="translate(1328.000000, 235.000000)">
+                    <rect id="Rectangle-2" fill="#7E7D7E" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#7E7D7E-$gray-red-me" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="50.162" y="128">#7E7D7E</tspan>
+                        <tspan x="25.328" y="142">$gray-red-medium</tspan>
+                    </text>
+                </g>
+                <g id="Group-10" transform="translate(1162.000000, 1.000000)">
+                    <rect id="Rectangle-2" fill="#C5C5C5" x="0" y="0" width="148" height="92" rx="5"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" transform="translate(74.000000, 131.000000) rotate(-180.000000) translate(-74.000000, -131.000000) " x="0" y="91" width="148" height="80" rx="5"></rect>
+                    <text id="#C5C5C5-$gray-light-" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#435062">
+                        <tspan x="48.172" y="128">#C5C5C5</tspan>
+                        <tspan x="38.32" y="142">$gray-light-alt</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
